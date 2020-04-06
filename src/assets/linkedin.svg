@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1892" height="1892" viewBox="0 0 1892 1892">
+  <defs>
+    <clipPath id="clip-Prancheta_3">
+      <rect width="1892" height="1892"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_3" data-name="Prancheta – 3" clip-path="url(#clip-Prancheta_3)">
+    <g id="linkedin-letters" transform="translate(256 277.292)">
+      <g id="Grupo_22" data-name="Grupo 22" transform="translate(0 9.708)">
+        <rect id="Retângulo_30" data-name="Retângulo 30" width="296.503" height="890.404" transform="translate(17.07 428.589)" fill="#4605ff"/>
+        <path id="Caminho_16" data-name="Caminho 16" d="M961.163,241.321q-93.425-101.984-247.082-101.99-56.6,0-102.893,13.932-46.266,13.926-78.167,39.083t-50.759,46.715a385.625,385.625,0,0,0-35.046,47.533V159.982H151.6l.906,43.134q.911,43.141.906,265.952,0,222.835-1.8,581.331H447.216V553.519q0-45.813,9.879-72.782a190.848,190.848,0,0,1,57.059-76.81q38.2-31.024,94.805-31.014,77.248,0,113.662,53.459Q759,479.827,759,574.176V1050.37h295.607V540.056Q1054.578,343.264,961.163,241.321Z" transform="translate(325.488 268.6)" fill="#4605ff"/>
+        <path id="Caminho_17" data-name="Caminho 17" d="M167.118,9.708q-74.566,0-120.847,43.58T0,163.351Q0,228.924,44.924,272.96q44.912,44.019,118.6,44.027h1.8q75.482,0,121.753-44.027t45.371-109.609q-.9-66.5-45.824-110.062Q241.712,9.7,167.118,9.708Z" transform="translate(0 -9.708)" fill="#4605ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

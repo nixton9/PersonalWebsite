@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1892" height="1892" viewBox="0 0 1892 1892">
+  <defs>
+    <clipPath id="clip-Prancheta_7">
+      <rect width="1892" height="1892"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_7" data-name="Prancheta – 7" clip-path="url(#clip-Prancheta_7)">
+    <g id="Layer_6" transform="translate(286 163.329)">
+      <path id="Caminho_19" data-name="Caminho 19" d="M575.747,68.67C315.221,68.67,104,279.853,104,540.417c0,260.526,211.221,471.747,471.747,471.747s471.747-211.221,471.747-471.747C1047.494,279.853,836.273,68.67,575.747,68.67Zm0,816.426c-190.373,0-344.68-154.341-344.68-344.68,0-190.373,154.307-344.679,344.68-344.679s344.68,154.307,344.68,344.679C920.426,730.751,766.119,885.1,575.747,885.1Z" transform="translate(0 0)" fill="#b2becd"/>
+      <g id="Grupo_24" data-name="Grupo 24" transform="translate(734.273 841.612)">
+        <path id="Caminho_20" data-name="Caminho 20" d="M738.075,813.847c23.184,34.837,15.667,80.969-16.705,102.506s-77.827,10.664-101.011-24.177L283.133,385.413c-23.184-34.841-15.667-80.969,16.705-102.506s77.831-10.664,101.015,24.177Z" transform="translate(-269.669 -271.84)" fill="#b2becd"/>
+      </g>
+    </g>
+  </g>
+</svg>

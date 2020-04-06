@@ -1,0 +1,21 @@
+export const theme = {
+    white: '#FFFFFF',
+    purple: '#4605FF',
+    backgroundGrey: '#10191B',
+    darkGrey: '#292E35',
+    lightGrey: '#B2BECD',
+    mainBordeRadius: '20px',
+    hackyBordeRadius: '22px',
+    roundedBorderRadius: '50px',
+    softShadow: '-5px -5px 11px rgba(113, 113, 113, 0.15), 5px 5px 11px rgba(0, 0, 0, 0.15)',
+    spacingXS: '1.5rem',
+    spacingS: '3rem',
+    spacingM: '6rem',
+    spacingL: '9rem',
+    spacingXL: '13rem',
+    spacingMega: '20rem',
+    spacingContent: '30rem',
+    containerS: '75%',
+    containerM: '80%',
+    containerL: '85%'
+}
