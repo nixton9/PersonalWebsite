@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+}
+
+html {
+    background-color: #10191B;
+    font-family: 'Muli';
+    font-size:10px;
+}
+
+.grid5050 {
+    display: grid;
+        grid-template-columns: 1fr 1fr;
+}
+
+
+
+
+
+
+
+/* FIXES */
+
+::-webkit-input-placeholder { color: #B2BECD; }
+  
+:-ms-input-placeholder { color: #B2BECD; }
+  
+::placeholder { color: #B2BECD; }

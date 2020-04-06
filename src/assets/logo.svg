@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1892" height="1892" viewBox="0 0 1892 1892">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#56e4e9"/>
+      <stop offset="1" stop-color="#7b6eea"/>
+    </linearGradient>
+    <clipPath id="clip-Prancheta_7">
+      <rect width="1892" height="1892"/>
+    </clipPath>
+  </defs>
+  <g id="Prancheta_7" data-name="Prancheta – 7" clip-path="url(#clip-Prancheta_7)">
+    <g id="Grupo_25" data-name="Grupo 25" transform="translate(-213 -621)">
+      <g id="Grupo_24" data-name="Grupo 24" transform="translate(378 783)">
+        <rect id="Retângulo_27" data-name="Retângulo 27" width="1562" height="1569" rx="781" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="WEBDEVTIPS" transform="translate(560 1634)" fill="#fff" font-size="167" font-family="Lato-Light, Lato" font-weight="300" letter-spacing="0.1em"><tspan x="0" y="0">WEBDEVTIPS</tspan></text>
+    </g>
+  </g>
+</svg>
