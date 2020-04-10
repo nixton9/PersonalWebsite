@@ -1,8 +1,9 @@
 import React from 'react'
 import styled from 'styled-components'
+import { Link } from 'gatsby'
 import { theme } from '../styles/theme'
 
-const LogoElement = styled.a`
+const LogoElement = styled.div`
     font-size: 2rem;
     font-weight: 700;
     color: ${theme.darkGrey};
@@ -15,7 +16,9 @@ const LogoElement = styled.a`
 
 const Logo = props => (
     <LogoElement>
-        Eduardo<span>A</span>raujo
+        <Link to="/">
+            Eduardo<span>A</span>raujo
+        </Link>
     </LogoElement>
 )
 

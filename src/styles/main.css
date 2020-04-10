@@ -12,12 +12,22 @@ html {
     font-size:10px;
 }
 
-.grid5050 {
-    display: grid;
-        grid-template-columns: 1fr 1fr;
+body {
+    overflow-x: hidden;
 }
 
+.grid5050 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 
+.bg-hover, .color-hover, .fill-hover path, .fill-hover rect {
+    transition: all .3s ease;
+}
+
+.bg-hover:hover { background-color: #7848fd; }
+.color-hover:hover { color: #7848fd; }
+.fill-hover:hover path, .fill-hover:hover rect { fill: #7848fd; }
 
 
 
@@ -30,3 +40,49 @@ html {
 :-ms-input-placeholder { color: #B2BECD; }
   
 ::placeholder { color: #B2BECD; }
+
+
+
+
+
+
+
+/* QUERIES */
+
+@media (max-width: 1440px) {
+    html {
+        font-size: 9px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .grid5050 {
+        grid-template-columns: 1fr;
+        grid-gap: 6rem;
+    }
+
+    .br {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 8px;
+    }
+}
+
+
+@media (max-width: 550px) {
+    html {
+        font-size: 7px;
+    }
+}
+
+
+@media (max-width: 425px) {
+    html {
+        font-size: 6px;
+    }
+}

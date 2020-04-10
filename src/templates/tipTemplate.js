@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Layout from '../components/Layout'
+import SEO from '../components/SEO'
 import { SingleTipContainer } from '../styles/components/SingleTipContainer'
 import { SecondaryTitle } from '../styles/components/SecondaryTitle'
 import { Spacing } from '../styles/components/Spacing'
@@ -9,6 +10,10 @@ import { formatLanguages } from '../utils/formatLanguages'
 class Template extends Component {
 
   async componentDidMount() {
+    const video = document.querySelector('iframe')
+    if(video) {
+      this.addAutoplayToVideos(video)
+    }
     try {
         const deckdeckgoHighlightCodeLoader = require("@deckdeckgo/highlight-code/dist/loader")
     
@@ -18,12 +23,32 @@ class Template extends Component {
     }
   }
 
+  addAutoplayToVideos = (video) => {
+    const srcAttr = video.getAttribute('src')
+    const videoID = this.getVideoID(srcAttr)
+    video.setAttribute('src', `${srcAttr}&autoplay=1&loop=1&playlist=${videoID}&showinfo=0&iv_load_policy=3&controls=0`)
+  }
+
+  getVideoID = (src) => {
+    var match = src.match(/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/);
+    return (match&&match[7].length==11)?match[7]:false;
+  }
+
   render () {
     const { markdownRemark } = this.props.data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
 
     return (
       <Layout>
+
+        <SEO 
+          title={`WebDev Tips . ${frontmatter.title}`}
+          description={frontmatter.description}
+          image={frontmatter.img}
+          pathname={frontmatter.path}
+          article={true}
+        />
+
         <SingleTipContainer className="tip">
 
           <Spacing />
@@ -58,6 +83,7 @@ export const pageQuery = graphql`
         path
         title
         languages
+        description
         img
         number
       }

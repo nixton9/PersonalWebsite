@@ -1,44 +1,51 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Logo from './Logo'
+import { Link } from 'gatsby'
+import { NavbarContainer, MobileNav } from '../styles/components/NavbarContainer'
 import { Button } from '../styles/components/Button'
-import { theme } from '../styles/theme'
-import styled from 'styled-components'
 
-const NavbarContainer = styled.nav`
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    width: ${theme.containerL};
-    top: 3rem;
 
-    .navigation {
-        .navigation__item {
-            color: ${theme.white};
-            font-size: 1.7rem;
-            font-weight: 700;
-            margin:0 2rem;
 
-            &:last-child {
-                margin:0 ;
-            }
-        }
-    }
-`
+const Navbar = props => {
 
-const Navbar = props => (
-    <NavbarContainer>
-        <div className="logo">
-            <Logo />
-        </div>
+    const [isMenuOpen, setIsMenuOpen] = useState(false); 
 
-        <div className="navigation">
-            <a className="navigation__item" href="">Home</a>
-            <a className="navigation__item" href="">About</a>
-            <a className="navigation__item" href="">Tips</a>
-            <a className="navigation__item" href=""><Button>Let's chat</Button></a>
-        </div>
-    </NavbarContainer>
-)
+    return (
+        <>
+            <NavbarContainer>
+                <div className="logo">
+                    <Logo />
+                </div>
+
+                <div className="navigation">
+                    <Link className="navigation__item" to="/">Home</Link>
+                    <Link className="navigation__item" to="/#about">About</Link>
+                    <Link className="navigation__item" to="/tips">Tips</Link>
+                    <Link className="navigation__item" to="/#contact">
+                        <Button className="bg-hover">Let's chat</Button>
+                    </Link>
+                </div>
+
+                <div className="hamburguer" onClick={() => setIsMenuOpen(true)}>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </NavbarContainer>
+
+            <MobileNav isMenuOpen={isMenuOpen} onClick={() => setIsMenuOpen(false)}>
+                <div className="close">+</div>
+                <div className="items">
+                    <Link className="navigation__item" to="/">Home</Link>
+                    <Link className="navigation__item" to="/#about">About</Link>
+                    <Link className="navigation__item" to="/tips">Tips</Link>
+                    <Link className="navigation__item" to="/#contact">
+                        <Button className="bg-hover">Let's chat</Button>
+                    </Link>
+                </div>
+            </MobileNav>
+        </>
+    )
+}
 
 export default Navbar

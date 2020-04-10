@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const TipsContainer = styled.div`
     width: 100%;
@@ -59,5 +59,11 @@ export const TipsContainer = styled.div`
             margin: ${theme.spacingS};
         }
     }
+
+    @media ${device.tablet} {
+            .tips__form input {
+                height: 7rem !important;
+            }
+        }
 
 `

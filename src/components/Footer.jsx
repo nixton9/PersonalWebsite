@@ -14,8 +14,9 @@ const FooterContainer = styled.footer`
     .icons a {
         margin:0 1rem;
 
-        img{
+        svg{
             width: 3rem;
+            height: auto;
         }
     }
 `

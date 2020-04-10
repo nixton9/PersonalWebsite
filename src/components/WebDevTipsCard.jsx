@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import { SoftElement } from '../styles/components/SoftElement'
 import { SubTitle } from '../styles/components/SubTitle'
 import { Button } from '../styles/components/Button'
@@ -14,12 +15,12 @@ const WebDevTipsCard = () => (
                     Sharing all sorts of Web Dev related tips on my Instagram page and here on posts
                 </SubTitle>
                 <div className="buttons">
-                    <a href="#">
-                        <Button big>Visit Instagram</Button>
+                    <a href="https://www.instagram.com/webdev.tips/" target="_blank">
+                        <Button className="bg-hover" big>Visit Instagram</Button>
                     </a>
-                    <a href="#">
-                        <Button inversed big>See online</Button>
-                    </a>
+                    <Link to="/tips">
+                        <Button className="color-hover" inversed big>See online</Button>
+                    </Link>
                 </div>
             </div>
         </SoftElement>

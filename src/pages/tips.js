@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import TipMiniature from '../components/TipMiniature'
 import Layout from '../components/Layout'
+import SEO from '../components/SEO'
 import { TipsContainer } from '../styles/components/TipsContainer'
 import { MainTitle } from '../styles/components/MainTitle'
 import { SubTitle } from '../styles/components/SubTitle'
@@ -9,7 +10,6 @@ import { graphql } from 'gatsby'
 import lupa from '../assets/lupa.svg'
 
 const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
-
   const [searchQuery, setSearchQuery] = useState('')
 
   const allTips = edges.filter(edge => edge.node.frontmatter.status)
@@ -22,6 +22,7 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
 
   return (
     <Layout>
+        <SEO title="WebDev Tips" description="Handy Web Dev related tips on HTML, CSS, JS, React, etc." />
         <TipsContainer className="tips">
 
           <div className="tips__header">
@@ -75,6 +76,7 @@ export const pageQuery = graphql`
             number
             status
             languages
+            description
           }
         }
       }

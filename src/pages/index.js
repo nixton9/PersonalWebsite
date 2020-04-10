@@ -3,6 +3,7 @@ import Layout from '../components/Layout'
 import SocialIcons from '../components/SocialIcons'
 import WebDevTipsCard from '../components/WebDevTipsCard'
 import ContactForm from '../components/ContactForm'
+import SEO from '../components/SEO'
 import { HomeContainer } from '../styles/components/HomeContainer'
 import { MainTitle } from '../styles/components/MainTitle'
 import { IntroText } from '../styles/components/IntroText'
@@ -12,14 +13,18 @@ import { SoftElement } from '../styles/components/SoftElement'
 import { Spacing } from '../styles/components/Spacing'
 
 const Home = () => {
+  if (typeof window !== "undefined") {
+    require("smooth-scroll")('a[href*="#"]')
+  }
   return (
     <Layout>
+        <SEO />
         <HomeContainer>
 
           <section className="main" id="main">
             <IntroText>
-              Hey, I’m Eduardo. A <span>web<br />developer</span> from Portugal.<br /> 
-              Come in and get to know <br />me a bit!
+              Hey, I’m Eduardo. A <span>web <br class="br" />developer</span> from Portugal. <br class="br" /> 
+              Come in and get to know <br class="br" />me a bit!
             </IntroText>
 
             <SoftElement className="main__icons">

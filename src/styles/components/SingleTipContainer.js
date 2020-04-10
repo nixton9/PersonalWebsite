@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const SingleTipContainer = styled.section`
     padding-bottom: ${theme.spacingMega};
@@ -53,6 +53,16 @@ export const SingleTipContainer = styled.section`
             font-size: 1.5rem;
             color: ${theme.white};
             padding: ${theme.spacingXS};
+        }
+
+        .embedVideo-container {
+            text-align: center;
+        }
+    }
+
+    @media ${device.laptop} {
+        h2 {
+            max-width: 100%;
         }
     }
 `

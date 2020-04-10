@@ -40,7 +40,7 @@ const ContactForm = () => {
                     onChange={e => setTextInput(e.target.value)}
                 ></textarea>
             </SoftElement>
-            <Button big>Send message</Button>
+            <Button className="bg-hover" big>Send message</Button>
         </FormContainer>
     )
 }
