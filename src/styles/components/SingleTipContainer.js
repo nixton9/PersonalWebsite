@@ -24,13 +24,11 @@ export const SingleTipContainer = styled.section`
         margin-top: ${theme.spacingMega};
 
         p {
-            display: flex;
-            justify-content: center;
             color: ${theme.lightGrey};
             font-size: 2.2rem;
             font-weight: 400;
             line-height: 4.9rem;
-            margin-bottom: ${theme.spacingXL};
+            margin-bottom: ${theme.spacingL};
 
             span {
                 font-weight: 700;
@@ -44,7 +42,10 @@ export const SingleTipContainer = styled.section`
         }
 
         img {
-            max-width: 85%;
+            width: 85%;
+            max-width: 100rem;
+            margin: 0 auto;
+            display: block;
             border-radius: ${theme.mainBordeRadius};
         }
 
