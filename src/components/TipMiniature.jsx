@@ -7,7 +7,7 @@ import { formatLanguages } from '../utils/formatLanguages'
 const TipMiniature = ({ post }) => (
   <TipMiniatureContainer className="tip__miniature">
     <SoftElement className="soft">
-      <Link to={post.frontmatter.path}>
+      <Link to={post.frontmatter.path} target="_blank">
         <div className="tip__meta">
           <p className="meta__languages">{formatLanguages(post.frontmatter.languages)}</p>
           <h3 className="meta__title">{post.frontmatter.title}</h3>
