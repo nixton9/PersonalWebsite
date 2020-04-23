@@ -12,7 +12,7 @@ const WebDevTipsCard = () => (
             <img src={logo} alt="WebDevTips" />
             <div>
                 <SubTitle>
-                    Sharing all sorts of Web Dev related tips on my Instagram page and here on posts
+                    Sharing all sorts of Web Dev related tips on my Instagram page and here on this website!
                 </SubTitle>
                 <div className="buttons">
                     <a href="https://www.instagram.com/webdev.tips/" target="_blank">

@@ -28,7 +28,7 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
           <div className="tips__header">
 
             <MainTitle>web dev tips</MainTitle>
-            <SubTitle>Simple and handy Web Dev related tips on HTML, CSS, JS and React</SubTitle>
+            <SubTitle>Simple and handy Web Dev related tips on HTML, CSS, JS, React and more!</SubTitle>
 
             <div className="tips__form">
               <SoftElement className="form-wrapper">
