@@ -8,6 +8,7 @@ export const NavbarContainer = styled.nav`
     position: fixed;
     width: ${theme.containerL};
     top: 3rem;
+    z-index: 11;
 
     .navigation {
         .navigation__item {
