@@ -11,6 +11,7 @@ module.exports = {
     description:
       "Web Developer from Portugal. And I love to share tips!",
     url: "https://www.eduardoaraujo.com",
+    siteUrl: "https://www.eduardoaraujo.com",
     image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586369866/webdevtips_oia3w7.png",
     twitterUsername: "@eddaraujo9",
   },
@@ -20,15 +21,14 @@ module.exports = {
       `gatsby-plugin-react-helmet`,
       `gatsby-plugin-sitemap`,
       {
-        resolve: `gatsby-plugin-prefetch-google-fonts`,
+        resolve: `gatsby-plugin-google-fonts`,
         options: {
           fonts: [
-            {
-              family: `Muli`,
-              variants: [`400`, `700`, `800`]
-            }
+            `limelight`,
+            `Muli\:400,700,800`
           ],
-        },
+          display: 'swap'
+        }
       },
       {
         resolve: `gatsby-source-filesystem`,
