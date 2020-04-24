@@ -13,8 +13,21 @@ export const TipsContainer = styled.div`
             margin: 0 auto;
         }
 
+        .tips__icons {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: ${theme.spacingM};
+
+            svg {
+                width: 3.5rem;
+                height: 100%;
+                margin: 0 ${theme.spacingXS};
+            }
+        }
+
         .tips__form {
-            margin-top: ${theme.spacingXL};
+            margin-top: ${theme.spacingL};
 
             .form-wrapper {
                 position: relative;

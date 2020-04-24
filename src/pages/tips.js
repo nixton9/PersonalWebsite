@@ -6,6 +6,9 @@ import { TipsContainer } from '../styles/components/TipsContainer'
 import { MainTitle } from '../styles/components/MainTitle'
 import { SubTitle } from '../styles/components/SubTitle'
 import { SoftElement } from '../styles/components/SoftElement'
+import { Instagram } from '../components/icons/Instagram'
+import { Twitter } from '../components/icons/Twitter'
+import { Mail } from '../components/icons/Mail'
 import { graphql } from 'gatsby'
 import lupa from '../assets/lupa.svg'
 
@@ -29,6 +32,18 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
 
             <MainTitle>web dev tips</MainTitle>
             <SubTitle>Simple and handy Web Dev related tips on HTML, CSS, JS, React and more!</SubTitle>
+
+            <div class="tips__icons">
+              <a href="https://www.instagram.com/webdev.tips/" className="fill-hover" target="_blank">
+                <Instagram />
+              </a>
+              <a href="https://twitter.com/webdevtips_" className="fill-hover" target="_blank">
+                <Twitter />
+              </a>
+              <a href="mailto:webdevtips9@gmail.com" className="fill-hover" target="_blank">
+                <Mail />
+              </a>
+            </div>
 
             <div className="tips__form">
               <SoftElement className="form-wrapper">
