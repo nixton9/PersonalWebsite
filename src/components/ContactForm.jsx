@@ -16,7 +16,7 @@ const ContactForm = () => {
     }
 
     return (
-        <FormContainer onSubmit={e => submitForm(e)}>
+        <FormContainer onSubmit={e => submitForm(e)} name="contact" method="POST" data-netlify="true">
             <SoftElement className="input-wrapper">
                 <input 
                     type="text" 
