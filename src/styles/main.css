@@ -42,7 +42,13 @@ body {
 ::placeholder { color: #B2BECD; }
 
 
-
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #10191B inset !important;
+    -webkit-text-fill-color: #B2BECD !important;
+    border-radius: 20px;
+}
 
 
 

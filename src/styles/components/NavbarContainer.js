@@ -75,7 +75,7 @@ export const MobileNav = styled.div`
     align-items: center;
     justify-content: center;
     transition: all .6s ease;
-    z-index: 1;
+    z-index: 11;
 
     .close {
         cursor: pointer;
@@ -104,7 +104,8 @@ export const MobileNav = styled.div`
         a {
             font-size: 3rem;
             font-weight: 700;
-            margin: ${theme.spacingS} 0;
+            margin: ${theme.spacingXS} 0;
+            padding: ${theme.spacingXS};
         }
     }
 

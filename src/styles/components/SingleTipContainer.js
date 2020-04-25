@@ -58,6 +58,10 @@ export const SingleTipContainer = styled.section`
 
         .embedVideo-container {
             text-align: center;
+
+            iframe {
+                max-width: 100%;
+            }
         }
 
         @media ${device.mobileXL} {

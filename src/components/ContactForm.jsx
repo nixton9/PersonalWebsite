@@ -6,13 +6,14 @@ import { Button } from '../styles/components/Button'
 const ContactForm = () => {
 
     return (
-        <FormContainer name="contact" method="POST" data-netlify="true">
+        <FormContainer name="contact" method="POST" data-netlify="true" autocomplete="off">
             <input type="hidden" name="form-name" value="contact" />
             <SoftElement className="input-wrapper">
                 <input 
                     type="text" 
                     placeholder="Tell me your name"
                     name="name"
+                    autocomplete="off"
                 />
             </SoftElement>
             <SoftElement className="input-wrapper">
@@ -20,6 +21,7 @@ const ContactForm = () => {
                     type="email" 
                     placeholder="What's your email?"
                     name="email"
+                    autocomplete="off"
                 />
             </SoftElement>
             <SoftElement className="input-wrapper">
