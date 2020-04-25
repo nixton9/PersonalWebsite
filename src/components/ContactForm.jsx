@@ -7,6 +7,7 @@ const ContactForm = () => {
 
     return (
         <FormContainer name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact" />
             <SoftElement className="input-wrapper">
                 <input 
                     type="text" 
