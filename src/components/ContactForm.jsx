@@ -27,7 +27,7 @@ const ContactForm = () => {
                     name="message"
                 ></textarea>
             </SoftElement>
-            <Button className="bg-hover" big>Send message</Button>
+            <Button className="bg-hover" big type="submit">Send message</Button>
         </FormContainer>
     )
 }
