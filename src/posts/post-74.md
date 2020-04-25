@@ -3,13 +3,13 @@ path: "/tips/post-74"
 date: "2019-10-14"
 title: "Understanding the CSS Box Model"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586976322/tips/74-1_rciwhy.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586976322/tips/74-1_rciwhy.png'
 description: 'What does the Css box model represent'
 number: 74
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1586976323/tips/74-2_lvlzs1.png "CSS box model")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586976323/tips/74-2_lvlzs1.png "CSS box model")
 
 Hey guys, today I want to talk a little bit about the CSS Box Model. This is basically a concept that will define how a element will look and behave on a webpage.
 

@@ -3,13 +3,13 @@ path: "/tips/post-94"
 date: "2019-11-18"
 title: "How to add a Favicon to your website"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587242303/tips/94-1_v17nva.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587242303/tips/94-1_v17nva.png'
 description: 'Adding a Favicon to a website'
 number: 94
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1587242303/tips/94-2_wbrgum.png "Favicon")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587242303/tips/94-2_wbrgum.png "Favicon")
 
 So for today we have a really simple but practical tip: adding a favicon to your website.  
 A Favicon is that small icon we can see next to the website's title on the browser tab. It's something that all websites should have since it helps users to quickly recognize a website's identity.

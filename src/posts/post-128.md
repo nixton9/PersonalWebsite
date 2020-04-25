@@ -3,7 +3,7 @@ path: "/tips/post-128"
 date: "2020-01-20"
 title: "Using the Javascript debugger keyword to debug your scripts"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587592074/tips/128-1_yt5q8s.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587592074/tips/128-1_yt5q8s.png'
 description: 'How to use the Javascript debugger'
 number: 128
 status: true

@@ -3,7 +3,7 @@ path: "/tips/post-56"
 date: "2019-09-13"
 title: "Creating a loading spinner animation using CSS only"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586884352/tips/56-1_ripmaq.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586884352/tips/56-1_ripmaq.png'
 description: 'Using CSS to easily create a loading spinner animation'
 number: 56
 status: true

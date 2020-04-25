@@ -3,7 +3,7 @@ path: "/tips/post-123"
 date: "2020-01-11"
 title: "How to compare two objects in Javascript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587590744/tips/123-1_ukvqfd.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587590744/tips/123-1_ukvqfd.png'
 description: 'Comparing objects in Javascript'
 number: 123
 status: true

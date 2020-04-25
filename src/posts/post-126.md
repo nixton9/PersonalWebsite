@@ -3,13 +3,13 @@ path: "/tips/post-126"
 date: "2020-01-17"
 title: "What's the difference between using EM's and REM's units?"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587591437/tips/126-1_qtuobf.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587591437/tips/126-1_qtuobf.png'
 description: 'Understanding the difference between EM and REM units in CSS'
 number: 126
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1587591436/tips/126-2_q4zl9n.png "EM's and REM's")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587591436/tips/126-2_q4zl9n.png "EM's and REM's")
 
 Hey guys!  
 On today's tip we'll be seeing what is the main difference between using EM's and REM's when dealing with size units in CSS.

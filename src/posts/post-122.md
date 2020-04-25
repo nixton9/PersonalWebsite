@@ -3,7 +3,7 @@ path: "/tips/post-122"
 date: "2020-01-10"
 title: "How to make long words break in specific places with HTML"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587590515/tips/122-1_bdiefk.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587590515/tips/122-1_bdiefk.png'
 description: 'Breaking long words where you want with some HTML'
 number: 122
 status: true

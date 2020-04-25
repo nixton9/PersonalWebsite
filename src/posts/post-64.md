@@ -3,13 +3,13 @@ path: "/tips/post-64"
 date: "2019-09-27"
 title: "What exactly does the 'box-sizing' property do and why does it matter"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586973963/tips/64-1_s9nbep.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586973963/tips/64-1_s9nbep.png'
 description: 'Understanding the purpose of the box-sizing property in CSS'
 number: 64
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1586973963/tips/64-2_llvgml.png "Box sizing in CSS")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586973963/tips/64-2_llvgml.png "Box sizing in CSS")
 
 Hey guys, how's your week going ?
 Today I want to talk to you about the CSS 'box-sizing' property.

@@ -3,13 +3,13 @@ path: "/tips/post-55"
 date: "2019-09-11"
 title: "Using the HTML 'small' element for some fine print text"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586884158/tips/55-1_vazojf.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586884158/tips/55-1_vazojf.png'
 description: 'Using the HTML small element for some fine print text'
 number: 55
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1586884158/tips/55-2_dik9f1.png "HTML small element")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586884158/tips/55-2_dik9f1.png "HTML small element")
 
 So, for today's tip I want to show you another 'not so used' HTML element: the 'small' tag.
 This element is a really simple one and doesn't exactly adds a lot of functionality but still can be pretty handy for some cases.

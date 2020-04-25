@@ -3,7 +3,7 @@ path: "/tips/post-119"
 date: "2020-01-04"
 title: "Getting familiar with the Chrome DevTools (part 2)"
 languages: ['Chrome', 'Misc']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587500596/tips/119-1_l3zcpp.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587500596/tips/119-1_l3zcpp.png'
 description: 'Using the Chrome DevTools - Part 2'
 number: 119
 status: true

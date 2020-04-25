@@ -3,7 +3,7 @@ path: "/tips/post-54"
 date: "2019-09-09"
 title: "What is the Prototype in JS and why it's such an important feature"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586883987/tips/54-1_ai4yjn.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586883987/tips/54-1_ai4yjn.png'
 description: 'Understanding what exactly is the Prototype in Javascript and what is its importance'
 number: 54
 status: true

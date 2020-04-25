@@ -3,7 +3,7 @@ path: "/tips/post-65"
 date: "2019-09-28"
 title: "Creating an awesome drag and drop effect between two lists"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586974170/tips/65-1_j00vpz.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586974170/tips/65-1_j00vpz.png'
 description: 'Creating drag and drop elements in HTML'
 number: 65
 status: true
