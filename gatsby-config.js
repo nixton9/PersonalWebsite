@@ -12,7 +12,7 @@ module.exports = {
       "Web Developer from Portugal. And I love to share tips!",
     url: "https://www.eduardoaraujo.com",
     siteUrl: "https://www.eduardoaraujo.com",
-    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586369866/webdevtips_oia3w7.png",
+    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586369866/webdevtips_oia3w7.png",
     twitterUsername: "@eddaraujo9",
   },
   plugins: [

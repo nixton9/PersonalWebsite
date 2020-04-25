@@ -3,7 +3,7 @@ path: "/tips/post-7"
 date: "2019-07-09"
 title: "Create a text input with a list of suggestions for the user"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586557279/tips/7-1_p6dail.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586557279/tips/7-1_p6dail.jpg'
 description: 'Showing a list of suggestions to the user on a text input with HTML and CSS'
 number: 7
 status: true

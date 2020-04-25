@@ -3,7 +3,7 @@ path: "/tips/post-10"
 date: "2019-07-12"
 title: "Building a simple animated modal from scratch"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586600782/tips/10-1_vdgvqd.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586600782/tips/10-1_vdgvqd.jpg'
 description: 'Creating an animated modal from scratch with HTML, CSS and Javascript'
 number: 10
 status: true

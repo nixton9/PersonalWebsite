@@ -3,7 +3,7 @@ path: "/tips/post-3"
 date: "2019-07-05"
 title: "Using CSS Animations to create a background with a moving gradient"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586555665/tips/1_okhogn.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586555665/tips/1_okhogn.jpg'
 description: 'Creating an animated background with a moving gradient in HTML and CSS'
 number: 3
 status: true

@@ -3,7 +3,7 @@ path: "/tips/post-9"
 date: "2019-07-11"
 title: "Using CSS Media Queries to target different browsers and different devices"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586600478/tips/9-1_zqr1tb.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586600478/tips/9-1_zqr1tb.jpg'
 description: 'Creating CSS Media Queries to target different browsers and different devices'
 number: 9
 status: true

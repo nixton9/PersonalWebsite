@@ -3,7 +3,7 @@ path: "/tips/post-18"
 date: "2019-07-21"
 title: "Changing the background and the color of the text when selecting it"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586629142/tips/18-1_zxpaoy.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586629142/tips/18-1_zxpaoy.jpg'
 description: 'Setting the color and background of text when selected with HTML and CSS'
 number: 18
 status: true

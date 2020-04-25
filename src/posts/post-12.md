@@ -3,7 +3,7 @@ path: "/tips/post-12"
 date: "2019-07-15"
 title: "How to create a side navigation menu with a slide effect "
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586601419/tips/12-1_accuba.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586601419/tips/12-1_accuba.jpg'
 description: 'Creating a side navigation bar with a slide effect with HTML, CSS and Javscript'
 number: 12
 status: true

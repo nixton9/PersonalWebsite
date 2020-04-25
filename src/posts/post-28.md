@@ -3,7 +3,7 @@ path: "/tips/post-28"
 date: "2019-08-02"
 title: "How to create fullscreen sections with a video background"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586718167/tips/28-1_bhiqf4.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586718167/tips/28-1_bhiqf4.png'
 description: 'Creating a fullscreen video background in HTML'
 number: 3
 status: true

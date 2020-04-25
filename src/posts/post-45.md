@@ -3,7 +3,7 @@ path: "/tips/post-45"
 date: "2019-08-24"
 title: "Using the filter property to create multiple hover effects"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586813977/tips/45-1_qeyo12.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586813977/tips/45-1_qeyo12.png'
 description: 'Creating different hover effects in CSS with the filter property'
 number: 45
 status: true

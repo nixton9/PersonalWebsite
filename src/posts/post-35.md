@@ -3,7 +3,7 @@ path: "/tips/post-35"
 date: "2019-08-10"
 title: "Improving CSS performance with these simple tips"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586810212/tips/35-1_tx2lqh.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586810212/tips/35-1_tx2lqh.png'
 description: 'Some simple tips to help you improve CSS performance'
 number: 35
 status: true
@@ -12,7 +12,7 @@ status: true
 For this post I thought of showing you some simple tips that can improve a website performance - especially in terms of CSS. Here we go:
 
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586810289/tips/35CSS_puz1db.png "CSS tips")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586810289/tips/35CSS_puz1db.png "CSS tips")
 
 
 Minifying CSS: the most obvious one! Minifying your code will produce a lighter CSS file thus helping improve the overall loading speed of your website. To do this easily, you can use online minifying tools where you just paste your code and it gives us the same code but minified.

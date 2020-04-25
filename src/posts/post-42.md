@@ -3,7 +3,7 @@ path: "/tips/post-42"
 date: "2019-08-19"
 title: "Creating a cool image zoom effect on hover"
 languages: ['React']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586813018/tips/42-1_tpkgxz.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586813018/tips/42-1_tpkgxz.png'
 description: 'Using CSS to create a image zoom effect on hover'
 number: 42
 status: true

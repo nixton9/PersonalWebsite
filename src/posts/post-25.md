@@ -3,7 +3,7 @@ path: "/tips/post-25"
 date: "2019-07-30"
 title: "Creating expandable boxes with HTML only"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586693325/tips/25-1_ckpyyu.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586693325/tips/25-1_ckpyyu.png'
 description: 'Using the details tag to create expandable boxes in HTML'
 number: 25
 status: true

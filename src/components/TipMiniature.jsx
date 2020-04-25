@@ -13,7 +13,7 @@ const TipMiniature = ({ post }) => (
           <h3 className="meta__title">{post.frontmatter.title}</h3>
           <p className="meta__number">#{post.frontmatter.number}</p>
         </div>
-        <img alt={post.frontmatter.title} src={post.frontmatter.img} />
+        <img alt={post.frontmatter.title} src={post.frontmatter.img} loading="lazy"/>
       </Link>
     </SoftElement>
   </TipMiniatureContainer>

@@ -3,7 +3,7 @@ path: "/tips/post-22"
 date: "2019-07-26"
 title: "Creating a nice tooltip effect when hovering some text"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586692555/tips/22-1_fockfh.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586692555/tips/22-1_fockfh.jpg'
 description: 'Using HTML and CSS to create a tooltip on hover'
 number: 22
 status: true

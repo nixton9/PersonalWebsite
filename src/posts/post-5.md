@@ -3,7 +3,7 @@ path: "/tips/post-5"
 date: "2019-07-07"
 title: "How to optimize your for loops just by changing one thing"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586556397/tips/5_-_1_tw4ypi.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586556397/tips/5_-_1_tw4ypi.jpg'
 description: 'Optimizing for loops in Javascript'
 number: 5
 status: true

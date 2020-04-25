@@ -3,7 +3,7 @@ path: "/tips/post-39"
 date: "2019-08-15"
 title: "How to smooth scroll between anchors using CSS only"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586811579/tips/39-1_ii86fn.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586811579/tips/39-1_ii86fn.png'
 description: 'Using CSS to create a smooth scroll effect between anchors'
 number: 39
 status: true

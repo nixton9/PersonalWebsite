@@ -3,13 +3,13 @@ path: "/tips/post-6"
 date: "2019-07-08"
 title: "Creating a duotone image background with CSS blend modes"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586556787/tips/6-1_ytyawg.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586556787/tips/6-1_ytyawg.jpg'
 description: 'Using CSS blend modes to create duotone effect on a image background'
 number: 6
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586556844/tips/6-2_gpbpaq.jpg "Duotone effect")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586556844/tips/6-2_gpbpaq.jpg "Duotone effect")
 
 CSS has a 'mix-blend-mode' property that will basically define how overlapping elements will blend with each other. With imagination, this allow us to do a ton of cool effects on pictures.
 In this post I'll show you how to do a duotone effect as you can see on the 2nd picture, using the pseudo-elements '::after' and '::before'. -

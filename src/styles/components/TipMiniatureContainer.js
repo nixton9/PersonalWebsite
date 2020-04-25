@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const TipMiniatureContainer = styled.div`
     width: 30rem;
@@ -25,7 +25,7 @@ export const TipMiniatureContainer = styled.div`
         opacity: 0;
 
         .meta__languages {
-            font-size: 1.1rem;
+            font-size: 12px;
             font-weight: 800;
         }
         .meta__title {
@@ -36,8 +36,14 @@ export const TipMiniatureContainer = styled.div`
             line-height: 2.8rem;
         }
         .meta__number {
-            font-size: 1.2rem;
+            font-size: 12px;
             font-weight: 900;
+        }
+
+        @media ${device.mobileL} {
+            .meta__title {
+            font-size: 12px;
+        }
         }
     }
 

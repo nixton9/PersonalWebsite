@@ -3,13 +3,13 @@ path: "/tips/post-31"
 date: "2019-08-06"
 title: "Creating your custom input type file"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586803277/tips/31-1_umslkq.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803277/tips/31-1_umslkq.png'
 description: 'Using HTML and CSS to create your own custom input type file'
 number: 31
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586803280/tips/31-2_xm8qw3.png "Custom file input")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803280/tips/31-2_xm8qw3.png "Custom file input")
 
 Inputs of file type are usually pretty useful when you need to have a form where the use can upload a file, for example. That being said, each browser styles these types of inputs in their own way and we can't directly apply CSS to them! So, in order to create our own custom inputs we have to hide the input type file and instead style the label that surrounds it.
 

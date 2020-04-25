@@ -53,7 +53,7 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
                   value={searchQuery}
                   onChange={e => setSearchQuery(e.target.value)}
                 />
-                <img src={lupa} />
+                <img src={lupa} alt="Seach glass"/>
               </SoftElement>
             </div>
 

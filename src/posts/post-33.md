@@ -3,13 +3,13 @@ path: "/tips/post-33"
 date: "2019-08-08"
 title: "Fetching some data from an API in JavaScript with Fetch"
 languages: ['HTML', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586803755/tips/33-1_v0wupz.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803755/tips/33-1_v0wupz.png'
 description: 'Using fetch in Javascript to get data from an API'
 number: 33
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586803754/tips/33-2_kpte0i.png "Fetch data from API")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803754/tips/33-2_kpte0i.png "Fetch data from API")
 
 Having to consume data from an API is a pretty common thing for web devs to do in most web applications. While there are several methods to achieve this - using native methods, external libraries, etc - I'll show you how to do this using the Fetch API, a web API.
 

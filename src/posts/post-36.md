@@ -3,7 +3,7 @@ path: "/tips/post-36"
 date: "2019-08-11"
 title: "Using 'EM' units to easily create responsive text"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586555665/tips/1_okhogn.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586555665/tips/1_okhogn.jpg'
 description: 'Creating responsive text with EM units in CSS'
 number: 36
 status: true

@@ -3,13 +3,13 @@ path: "/tips/post-46"
 date: "2019-08-26"
 title: "Grouping your select options in different categories"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586814321/tips/46-1_kf6may.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586814321/tips/46-1_kf6may.png'
 description: 'Grouping your select options in different categories'
 number: 46
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586814322/tips/46-2_cm4jla.png "Categories in select options")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586814322/tips/46-2_cm4jla.png "Categories in select options")
 
 Did you know that HTML has a special element that you can use in your select options to group them in different categories? This is something a lot of people don't know about and it's extremely handy for a lot of cases! Look at the 'Final Result' slide to understand exactly what I'm talking about 😁
 

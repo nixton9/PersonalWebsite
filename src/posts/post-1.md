@@ -3,13 +3,13 @@ path: "/tips/post-1"
 date: "2019-07-03"
 title: "How to center absolutely positioned element inside its parent"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586554163/tips/1_ddwaqq.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586554163/tips/1_ddwaqq.jpg'
 description: 'Centering absolutely positioned elements inside their parents with HTML and CSS'
 number: 1
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1586554360/tips/2_ntf6j7.jpg "Centered element")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586554360/tips/2_ntf6j7.jpg "Centered element")
 
 Centering horizontally and vertically an element with absolute positioning is one of those things that seems simple but sometimes gets tricky. Besides that, it's something that we need to do very often for most of the layouts we implement.
 
