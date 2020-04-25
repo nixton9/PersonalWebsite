@@ -40,12 +40,12 @@ const Home = () => {
                 I build and break things <br />and I like to share tips with people
               </SubTitle>
               <Text>
-                I'm Eduardo Araújo, a Web Developer / Web Designer from Portugal, currently living in <span>Aveiro</span>.
+                I'm Eduardo Araújo, a Web Developer from Portugal, currently living in <span>Aveiro</span>.
                 Right now I'm working at Mindera as a Front-end developer. I know my ways on Back-end but what
-                I really like doing the most is <span>Front-end / UI design</span>. Ideally, I love working on all stages of 
+                I really like doing the most is <span>Front-end & UI design</span>. Ideally, I love working on all stages of 
                 building a website - from the first sketches, design, implementation to the <span>finished product</span>.
                 Currently, my main area of focus has been <span>React</span>. Besides that, my skills include HTML, CSS,
-                Javascript, MySQL, some basic PHP, UI design and some more.
+                Javascript, MySQL, some basic PHP and UI design.
                 I also like sharing some tips on what I know through my Instagram page - <strong>webDevTips</strong>.
                 You can find it right below or you can see the tips right here on this website!
               </Text>

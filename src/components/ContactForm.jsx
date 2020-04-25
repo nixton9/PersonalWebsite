@@ -11,17 +11,20 @@ const ContactForm = () => {
                 <input 
                     type="text" 
                     placeholder="Tell me your name"
+                    name="name"
                 />
             </SoftElement>
             <SoftElement className="input-wrapper">
                 <input 
                     type="email" 
                     placeholder="What's your email?"
+                    name="email"
                 />
             </SoftElement>
             <SoftElement className="input-wrapper">
                 <textarea
                     placeholder="Write your message"
+                    name="message"
                 ></textarea>
             </SoftElement>
             <Button className="bg-hover" big>Send message</Button>
