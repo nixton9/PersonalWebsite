@@ -15,7 +15,7 @@ const WebDevTipsCard = () => (
                     Sharing all sorts of Web Dev related tips on my Instagram page and here on this website!
                 </SubTitle>
                 <div className="buttons">
-                    <a href="https://www.instagram.com/webdev.tips/" target="_blank">
+                    <a href="https://www.instagram.com/webdev.tips/" target="_blank" rel="noopener">
                         <Button className="bg-hover" big>Visit Instagram</Button>
                     </a>
                     <Link to="/tips">

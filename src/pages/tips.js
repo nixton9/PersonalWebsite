@@ -34,13 +34,13 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
             <SubTitle>Simple and handy Web Dev related tips on HTML, CSS, JS, React and more!</SubTitle>
 
             <div class="tips__icons">
-              <a href="https://www.instagram.com/webdev.tips/" className="fill-hover" target="_blank">
+              <a href="https://www.instagram.com/webdev.tips/" className="fill-hover" target="_blank" rel="noopener">
                 <Instagram />
               </a>
-              <a href="https://twitter.com/webdevtips_" className="fill-hover" target="_blank">
+              <a href="https://twitter.com/webdevtips_" className="fill-hover" target="_blank" rel="noopener">
                 <Twitter />
               </a>
-              <a href="mailto:webdevtips9@gmail.com" className="fill-hover" target="_blank">
+              <a href="mailto:webdevtips9@gmail.com" className="fill-hover" target="_blank" rel="noopener">
                 <Mail />
               </a>
             </div>
