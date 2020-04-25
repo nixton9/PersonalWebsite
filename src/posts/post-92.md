@@ -3,13 +3,13 @@ path: "/tips/post-92"
 date: "2019-11-15"
 title: "How to get started with Bootstrap on your projects"
 languages: ['Bootstrap']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587146372/tips/92-1_q2ymcx.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587146372/tips/92-1_q2ymcx.png'
 description: 'Using Bootstrap'
 number: 92
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587146372/tips/92-2_o86osr.png "Bootstrap")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587146372/tips/92-2_o86osr.png "Bootstrap")
 
 Have you ever used Bootstrap on your projects?  
 Today we'll be talking about Bootstrap. I'm sure most of you already know it and perhaps already used it. But for the ones who don't know it, Bootstrap is an HTML, CSS and JS framework (but mostly CSS) to help you easily create responsive and 'mobile first' websites.

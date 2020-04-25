@@ -3,7 +3,7 @@ path: "/tips/post-112"
 date: "2019-12-20"
 title: "Inserting an audio file on a webpage using only HTML"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499125/tips/112-1_gimw3e.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499125/tips/112-1_gimw3e.png'
 description: 'How to insert a audio file on a page'
 number: 112
 status: true

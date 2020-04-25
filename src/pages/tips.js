@@ -33,7 +33,7 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
             <MainTitle>web dev tips</MainTitle>
             <SubTitle>Simple and handy Web Dev related tips on HTML, CSS, JS, React and more!</SubTitle>
 
-            <div class="tips__icons">
+            <div className="tips__icons">
               <a href="https://www.instagram.com/webdev.tips/" className="fill-hover" target="_blank" rel="noopener" aria-label="Instagram">
                 <Instagram />
               </a>

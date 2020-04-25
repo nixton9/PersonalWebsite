@@ -3,13 +3,13 @@ path: "/tips/post-34"
 date: "2019-08-09"
 title: "The position absolute & position relative combo"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803987/tips/34-1_ofyloa.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586803987/tips/34-1_ofyloa.png'
 description: 'Understanding the position absolute & position relative combo and why it is so powerfull'
 number: 34
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586803987/tips/34-2_yqkgyp.png "position absolute & position relative")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586803987/tips/34-2_yqkgyp.png "position absolute & position relative")
 
 Today I decided to show you another really simple tip that, when I first learned it, had a really big impact on my CSS skills! I call it the 'position absolute and position relative combo' and even though most of you might know it, at least some of you might not know.
 It's as simple as this: you a have a container element with relative positioning and a child element with absolute positioning that you can place wherever you want to inside the container.

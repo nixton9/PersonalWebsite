@@ -3,7 +3,7 @@ path: "/tips/post-106"
 date: "2019-12-09"
 title: "Creating a parallax stars animation with just some CSS & JS"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328897/tips/106-1_pxbxkr.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328897/tips/106-1_pxbxkr.png'
 description: 'How to creating a stars parallax animation'
 number: 106
 status: true

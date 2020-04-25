@@ -3,7 +3,7 @@ path: "/tips/post-103"
 date: "2019-12-04"
 title: "How to easily change the website tab title"
 languages: ['HTML', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328136/tips/103-1_nubmif.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328136/tips/103-1_nubmif.png'
 description: 'Changing the title of the tab in the browser'
 number: 103
 status: true

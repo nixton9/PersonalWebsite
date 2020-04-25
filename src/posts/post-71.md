@@ -3,7 +3,7 @@ path: "/tips/post-71"
 date: "2019-10-09"
 title: "Create a smooth typing effect with some basic CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586975593/tips/71-1_sbu4y0.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586975593/tips/71-1_sbu4y0.png'
 description: 'Typing effect with some CSS'
 number: 71
 status: true

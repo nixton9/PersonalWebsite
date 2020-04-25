@@ -3,7 +3,7 @@ path: "/tips/post-110"
 date: "2019-12-16"
 title: "Creating a scroll snap effect with CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587498546/tips/110-1_awejzf.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587498546/tips/110-1_awejzf.png'
 description: 'How to create a scroll snap with CSS'
 number: 110
 status: true

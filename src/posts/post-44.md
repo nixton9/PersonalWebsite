@@ -3,7 +3,7 @@ path: "/tips/post-44"
 date: "2019-08-23"
 title: "What are Promises in JavaScript and how to use them"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586813605/tips/44-1_f3dlco.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586813605/tips/44-1_f3dlco.png'
 description: 'Understanding Promises in Javascript and how to use them'
 number: 44
 status: true

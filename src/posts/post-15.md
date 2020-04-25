@@ -3,7 +3,7 @@ path: "/tips/post-15"
 date: "2019-07-18"
 title: "Easily removing duplicates from an array in Javascript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586628406/tips/15-1_bpsikh.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586628406/tips/15-1_bpsikh.jpg'
 description: 'Removing duplicated items from an array in Javascript with ease'
 number: 15
 status: true

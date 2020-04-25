@@ -3,13 +3,13 @@ path: "/tips/post-125"
 date: "2020-01-15"
 title: "Using HTML icons on your projects without any library"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587591211/tips/125-1_uoap6z.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587591211/tips/125-1_uoap6z.png'
 description: 'On to use icons on a website without having to include any libraries'
 number: 125
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587591211/tips/125-2_q0pwbv.png "HTML icons")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587591211/tips/125-2_q0pwbv.png "HTML icons")
 
 What's uuup guys? 😁  
 We will see today how we can have icons on our projects without having to import any library or framework, just by using them directly on our HTML with UTF8 codes.

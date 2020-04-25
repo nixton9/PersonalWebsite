@@ -3,13 +3,13 @@ path: "/tips/post-2"
 date: "2019-07-04"
 title: "Create a centered three column layout with Grid and Flex"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586555049/tips/1_ntx4j1.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586555049/tips/1_ntx4j1.jpg'
 description: 'Using Grid and Flexbox to create a centered three column layout with HTML and CSS'
 number: 2
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586555310/tips/2_k6h0nx.jpg "Three column layout")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586555310/tips/2_k6h0nx.jpg "Three column layout")
 
 Three columns layouts are one of those super mainstream layouts in webdesign that we all use. That being said, is super usefull to master this type of grid layouts in order to easily implement any design that you want.
 Here in this tip, i show you how to easily create a three column layout using CSS Grid. Then we'll use Flexbox to completely center the content of each item in the grid.

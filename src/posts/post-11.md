@@ -3,7 +3,7 @@ path: "/tips/post-11"
 date: "2019-07-13"
 title: "How to remove falsey values from an array"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586601133/tips/11-1_xr4ck7.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586601133/tips/11-1_xr4ck7.jpg'
 description: 'Removing falseys values from an array in Javascript'
 number: 2
 status: true

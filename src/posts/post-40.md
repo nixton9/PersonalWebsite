@@ -3,13 +3,13 @@ path: "/tips/post-40"
 date: "2019-08-16"
 title: "Applying a different style to an input when invalid"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586811996/tips/40-1_odfzln.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586811996/tips/40-1_odfzln.png'
 description: 'Using CSS to apply a different style to an input when this input is invalid'
 number: 40
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586812072/tips/40-2_uxplw7.png "Styling invalid input")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586812072/tips/40-2_uxplw7.png "Styling invalid input")
 
 Did you know that inputs may be considered valid or invalid? And then that this allow us to target them on our CSS based on being one or the other ?
 

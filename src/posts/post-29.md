@@ -3,7 +3,7 @@ path: "/tips/post-29"
 date: "2019-08-03"
 title: "Using the ternary operator in JavaScript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586718446/tips/29-1_ozt7cy.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586718446/tips/29-1_ozt7cy.png'
 description: 'Understanding the ternary operator in Javascript and why it is so handy'
 number: 29
 status: true

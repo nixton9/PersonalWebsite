@@ -25,6 +25,7 @@
     "gatsby-plugin-styled-components": "^3.2.0",
     "gatsby-remark-embed-video": "^2.0.1",
     "gatsby-remark-highlight-code": "^1.2.0",
+    "gatsby-remark-images-native-lazy-load": "^1.0.0",
     "gatsby-source-filesystem": "^2.2.2",
     "gatsby-transformer-remark": "^2.7.1",
     "react": "^16.12.0",

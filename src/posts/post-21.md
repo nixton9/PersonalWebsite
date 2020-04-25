@@ -3,7 +3,7 @@ path: "/tips/post-21"
 date: "2019-07-25"
 title: "What are IIFE's in JS and how can we create one"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586692360/tips/21-1_qopwyh.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586692360/tips/21-1_qopwyh.jpg'
 description: 'Understanding what is an IIFE - Immediately Invoked Function Expression - in Javascript and how to create one'
 number: 21
 status: true

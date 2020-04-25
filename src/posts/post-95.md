@@ -3,13 +3,13 @@ path: "/tips/post-95"
 date: "2019-11-20"
 title: "Understanding the main types of 'pposition' in CSS"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587242549/tips/95-1_qfaxi1.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587242549/tips/95-1_qfaxi1.png'
 description: 'How does position work in CSS'
 number: 95
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587242549/tips/95-2_sl2bsa.png "CSS position")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587242549/tips/95-2_sl2bsa.png "CSS position")
 
 The 'position' property plays a big role in CSS. It defines how a element should be positioned according to the layout of the page.
 

@@ -3,7 +3,7 @@ path: "/tips/post-80"
 date: "2019-10-09"
 title: "Using ESLint on your projects to have better consistency and readability"
 languages: ['Misc', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587032921/tips/80-1_ped5u2.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587032921/tips/80-1_ped5u2.png'
 description: 'What is ESLint, why you should use it and how to use it'
 number: 80
 status: true

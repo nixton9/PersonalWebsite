@@ -3,7 +3,7 @@ path: "/tips/post-132"
 date: "2020-01-27"
 title: "Creating a cool hover effect with some CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587592966/tips/132-1_izg3aq.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587592966/tips/132-1_izg3aq.png'
 description: 'Dope outline hover effect with CSS'
 number: 132
 status: true

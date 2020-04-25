@@ -3,7 +3,7 @@ path: "/tips/post-20"
 date: "2019-07-24"
 title: "Creating a simple parallax effect with CSS only"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586629753/tips/20-1_hcsfnj.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586629753/tips/20-1_hcsfnj.jpg'
 description: 'Using CSS to create a simple parallax effect'
 number: 20
 status: true

@@ -3,13 +3,13 @@ path: "/tips/post-118"
 date: "2020-01-03"
 title: "What is CSS BEM and why you should use it on your projects"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587500325/tips/118-1_ttzef3.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587500325/tips/118-1_ttzef3.png'
 description: 'Using BEM in CSS'
 number: 118
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587500325/tips/118-2_sbjqdc.png "CSS BEM")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587500325/tips/118-2_sbjqdc.png "CSS BEM")
 
 What's up guys? 😁
 Today we'll be talking a little bit about a very cool and useful CSS methodology - BEM.

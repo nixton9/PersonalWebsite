@@ -3,13 +3,13 @@ path: "/tips/post-4"
 date: "2019-07-06"
 title: "How to use the pseudo-element 'after' to create a speech bubble"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586556008/tips/1_uv8xrj.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586556008/tips/1_uv8xrj.jpg'
 description: 'Creating a speech bubble using the "after" pseudo-element with HTML and CSS'
 number: 4
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586556143/tips/2_bqmayz.jpg "Speech bubble")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586556143/tips/2_bqmayz.jpg "Speech bubble")
 
 CSS pseudo-elements are a powerfull feature that let you style a specific part of a specific element. While there are different pseudo-elements such as '::before', '::first-line' and '::first-letter', here I'm showing how to use '::after'. This pseudo-element is almost the same as '::before', the only difference being the fact that when you use '::after' its content will be placed after the content from the selected element. With 'before' it's the opposite.
 

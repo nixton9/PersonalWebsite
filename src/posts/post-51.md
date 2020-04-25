@@ -3,7 +3,7 @@ path: "/tips/post-51"
 date: "2019-09-04"
 title: "How to create editable HTML elements "
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586883086/tips/51-1_mu2ivj.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586883086/tips/51-1_mu2ivj.png'
 description: 'Making an HTML element editable'
 number: 51
 status: true

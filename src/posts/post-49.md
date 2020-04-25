@@ -3,13 +3,13 @@ path: "/tips/post-49"
 date: "2019-08-31"
 title: "Shortening your text with ellipsis with nothing but CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586882642/tips/49-1_os6n2l.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586882642/tips/49-1_os6n2l.png'
 description: 'Using CSS to shorten text and add ellipsis after it'
 number: 49
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586882641/tips/49-2_s9yv4w.png "Shortening text with CSS")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586882641/tips/49-2_s9yv4w.png "Shortening text with CSS")
 
 It's quite common for us to have to 'cut' some characters of a text and put some ellipsis ( ... ) a the end of it. Wether it is because we only want to show a small preview of the whole text or simply because we need to fit the text to a container, this is something that can be achieved in numerous ways, depending on the specific situation.
 

@@ -3,7 +3,7 @@ path: "/tips/post-102"
 date: "2019-12-02"
 title: "Getting familiar with the Chrome DevTools"
 languages: ['Misc', 'Chrome']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328010/tips/102-1_hxcwyt.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328010/tips/102-1_hxcwyt.png'
 description: 'Using the Chrome Devtools'
 number: 102
 status: true

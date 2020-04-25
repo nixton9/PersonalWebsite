@@ -3,7 +3,7 @@ path: "/tips/post-19"
 date: "2019-07-23"
 title: "Styling the browser scrollbar to be fully customized"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586629450/tips/19-1_t72kny.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586629450/tips/19-1_t72kny.jpg'
 description: 'Using CSS to customize the browser scrollbar'
 number: 19
 status: true

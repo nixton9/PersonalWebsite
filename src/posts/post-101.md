@@ -3,7 +3,7 @@ path: "/tips/post-101"
 date: "2019-11-30"
 title: "Using position sticky in CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587327770/tips/101-1_d6bpvi.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587327770/tips/101-1_d6bpvi.png'
 description: 'How does position sticky works in CSS'
 number: 101
 status: true

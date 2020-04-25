@@ -3,7 +3,7 @@ path: "/tips/post-113"
 date: "2019-12-21"
 title: "How to handle forms in React"
 languages: ['React']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499291/tips/113-1_t56gun.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499291/tips/113-1_t56gun.png'
 description: 'Dealing with forms in React'
 number: 113
 status: true
@@ -17,7 +17,7 @@ Even though there are obviously different ways to handle forms in react, this is
 
 Using the useState hook we create a state with an object called 'formValues' that will have properties for each of the fields we need on the form. In this example we only have a simple mock form with 'name', 'email, and 'birth date'. So, we add all of these properties on our object and set their initial value to ' '.
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499385/tips/113-3_f1j0t7.png "Forms in React")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499385/tips/113-3_f1j0t7.png "Forms in React")
 
 Then we create our form and inside it we will place whatever inputs we need. Here I'm creating three inputs for all the values described above.
 

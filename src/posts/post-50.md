@@ -3,7 +3,7 @@ path: "/tips/post-50"
 date: "2019-09-02"
 title: "What is type coercion in JS and why you should know how it works"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586882916/tips/50-1_dgw6xt.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586882916/tips/50-1_dgw6xt.png'
 description: 'Understanding type coercion in Javascript'
 number: 50
 status: true

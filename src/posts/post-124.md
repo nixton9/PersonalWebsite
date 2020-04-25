@@ -3,7 +3,7 @@ path: "/tips/post-124"
 date: "2020-01-13"
 title: "Easily creating tabs from scratch with HTML, CSS & JS"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587590870/tips/124-1_ynlezi.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587590870/tips/124-1_ynlezi.png'
 description: 'How to create tabs on a website'
 number: 124
 status: true

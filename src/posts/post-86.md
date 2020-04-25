@@ -3,7 +3,7 @@ path: "/tips/post-86"
 date: "2019-11-04"
 title: "Using Event Listeners in Javascript"
 languages: ['HTML', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587073184/tips/86-1_bu1iku.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587073184/tips/86-1_bu1iku.png'
 description: 'What are Event Listeners in Javascript and how to use them'
 number: 86
 status: true

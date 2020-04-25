@@ -3,7 +3,7 @@ path: "/tips/post-67"
 date: "2019-10-02"
 title: "Understanding closures in JavaScript and why they matter"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586974713/tips/67-1_twm5zu.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586974713/tips/67-1_twm5zu.png'
 description: 'Closures in Javascript'
 number: 67
 status: true

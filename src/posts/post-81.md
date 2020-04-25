@@ -3,13 +3,13 @@ path: "/tips/post-81"
 date: "2019-10-26"
 title: " How does Z-index works in CSS?"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587033102/tips/81-1_odpwza.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587033102/tips/81-1_odpwza.png'
 description: 'Understanding the z-index property in CSS'
 number: 81
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587033101/tips/81-fr_jpuyyc.png "CSS z-index")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587033101/tips/81-fr_jpuyyc.png "CSS z-index")
 
 For today's tip we'll be talking a bit about z-index and the use case for which we use this property: defining the order of stacked elements.
 

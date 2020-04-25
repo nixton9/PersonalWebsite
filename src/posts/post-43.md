@@ -3,7 +3,7 @@ path: "/tips/post-43"
 date: "2019-08-21"
 title: "Getting a cleaner code with object destructuring"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586813336/tips/43-1_jvidof.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586813336/tips/43-1_jvidof.png'
 description: 'Using object destructuring in Javascript to have a cleaner code'
 number: 43
 status: true

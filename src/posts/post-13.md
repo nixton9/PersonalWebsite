@@ -3,7 +3,7 @@ path: "/tips/post-13"
 date: "2019-07-16"
 title: "Using your if's in a shorter, simpler and cooler way"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586601827/tips/13-1_uxcfkv.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586601827/tips/13-1_uxcfkv.jpg'
 description: 'Creating shorter, simpler and cooler if statements in Javascript'
 number: 13
 status: true

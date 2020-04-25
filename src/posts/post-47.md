@@ -3,7 +3,7 @@ path: "/tips/post-47"
 date: "2019-08-28"
 title: "What are lifecycle methods in reactJS with some examples"
 languages: ['React']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586880904/tips/47-1_amtfp8.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586880904/tips/47-1_amtfp8.png'
 description: 'Lifecycle methods in React. What are they and a brief look at two examples.'
 number: 47
 status: true
@@ -14,7 +14,7 @@ So what's the advantage of these methods and why should we use them? Because the
 
 There are many lifecycle methods but in this tip i want to talk about two - 'componentDidMount' and 'componentDidUpdate' - some of the most used lifecycle methods. In later tips I'll discuss some more methods.
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586880903/tips/47-2_qnkszo.png "React lifecycle methods")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586880903/tips/47-2_qnkszo.png "React lifecycle methods")
 
 'componentDidMount' is a method that will be executed as soon as the components mounts, or when the component is 'ready'. This is usually where API calls are made and here, not like the 'render' method, you can use setState to update the state of your component.
 

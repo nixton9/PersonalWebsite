@@ -13,6 +13,7 @@ class Template extends Component {
     const video = document.querySelector('iframe')
     if(video) {
       this.addAutoplayToVideos(video)
+      video.setAttribute('title', this.props.data.markdownRemark.frontmatter.title);
     }
     try {
         const deckdeckgoHighlightCodeLoader = require("@deckdeckgo/highlight-code/dist/loader")

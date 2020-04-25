@@ -3,7 +3,7 @@ path: "/tips/post-24"
 date: "2019-07-29"
 title: "Some simple but useful array operations in JavaScript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586693118/tips/24-1_ysahqa.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586693118/tips/24-1_ysahqa.png'
 description: 'Using some neat and useful array operations in Javascript'
 number: 24
 status: true

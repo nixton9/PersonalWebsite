@@ -3,7 +3,7 @@ path: "/tips/post-107"
 date: "2019-12-11"
 title: "Understanding the NOT(!), OR (||), AND (&&) logical operators in Javascript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587329266/tips/107-1_sultsb.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587329266/tips/107-1_sultsb.png'
 description: 'How do Javascript logical operators work'
 number: 107
 status: true

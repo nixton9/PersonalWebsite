@@ -3,7 +3,7 @@ path: "/tips/post-16"
 date: "2019-07-19"
 title: "Using an input type color to change an element's background color "
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586628562/tips/16-1_r4ltqx.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586628562/tips/16-1_r4ltqx.jpg'
 description: 'Changing an element background color using an input type color with some HTML, CSS and Javascript'
 number: 16
 status: true

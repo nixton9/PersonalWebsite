@@ -3,7 +3,7 @@ path: "/tips/post-69"
 date: "2019-10-05"
 title: "Creating a dropdown menu from scratch with HTML and CSS only"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586975101/tips/69-1_amk2g1.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586975101/tips/69-1_amk2g1.png'
 description: 'How to create a dropdown menu from scratch using some HTML and CSS'
 number: 69
 status: true

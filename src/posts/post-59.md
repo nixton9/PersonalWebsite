@@ -3,13 +3,13 @@ path: "/tips/post-59"
 date: "2019-09-18"
 title: "Using the HTML 'figure' element to display an image with caption"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586886247/tips/59-1_wiw2rx.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586886247/tips/59-1_wiw2rx.png'
 description: 'Displaying a image with caption by using the HTML figure element'
 number: 59
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586886248/tips/59-2_y0xoxl.png "Engraved text with CSS")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586886248/tips/59-2_y0xoxl.png "Engraved text with CSS")
 
 What's up guys? So today I want to show how to use the HTML 'figure' and 'figcaption' elements to create a nice looking image with some caption on it. The figure element is used for containing elements like images, illustrations, videos or even code. It's usually used with a caption inside to describe said element by using the figcaption element.
 

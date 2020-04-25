@@ -3,7 +3,7 @@ path: "/tips/post-73"
 date: "2019-10-12"
 title: "Getting familiar with the spread operator in JavaScript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586976140/tips/73-1_apmp95.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586976140/tips/73-1_apmp95.png'
 description: 'Understanding the spread operator in Javascript'
 number: 73
 status: true

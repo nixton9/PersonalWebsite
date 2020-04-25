@@ -3,7 +3,7 @@ path: "/tips/post-114"
 date: "2019-12-23"
 title: "Understanding pointer events in CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499472/tips/114-1_ofs1jh.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499472/tips/114-1_ofs1jh.png'
 description: 'How does pointer events work in CSS'
 number: 114
 status: true

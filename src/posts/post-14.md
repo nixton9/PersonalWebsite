@@ -3,13 +3,13 @@ path: "/tips/post-14"
 date: "2019-07-17"
 title: "Creating a cool UI card with Flexbox "
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586628141/tips/14-1_vtdihc.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586628141/tips/14-1_vtdihc.jpg'
 description: 'Using Flexbox to create a cool looking UI card'
 number: 14
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586628169/tips/14-2_s5wdzo.jpg "Card with flexbox")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586628169/tips/14-2_s5wdzo.jpg "Card with flexbox")
 
 Implementing complex layouts with HTML and CSS is always one of the biggest challenges that we web developers face each day. With the evolution of these languages we get new features that help us tackle these challenges and one of those recent features is Flexbox. Mastering it is definitely a big plus for any web dev and here I'll try to show you how to implement a very basic but common design with it.
 

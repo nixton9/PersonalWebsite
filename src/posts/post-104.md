@@ -3,7 +3,7 @@ path: "/tips/post-104"
 date: "2019-12-06"
 title: "Understanding what is hoisting in Javascript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328348/tips/104-1_dwjjgm.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328348/tips/104-1_dwjjgm.png'
 description: 'How does hoisting works in Javascript'
 number: 104
 status: true

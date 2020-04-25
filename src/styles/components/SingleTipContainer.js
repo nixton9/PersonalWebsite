@@ -59,6 +59,12 @@ export const SingleTipContainer = styled.section`
         .embedVideo-container {
             text-align: center;
         }
+
+        @media ${device.mobileXL} {
+            .deckgo-highlight-code-carbon {
+                font-size: 12px;
+            }
+        }
     }
 
     @media ${device.laptop} {

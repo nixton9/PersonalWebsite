@@ -12,7 +12,7 @@ module.exports = {
       "Web Developer from Portugal. And I love to share tips!",
     url: "https://www.eduardoaraujo.com",
     siteUrl: "https://www.eduardoaraujo.com",
-    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586369866/webdevtips_oia3w7.png",
+    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586369866/webdevtips_oia3w7.png",
     twitterUsername: "@eddaraujo9",
   },
   plugins: [
@@ -47,11 +47,17 @@ module.exports = {
             {
               resolve: "gatsby-remark-embed-video",
               options: {
-                ratio: 1, // Optional: Defaults to 16/9 = 1.77
+                ratio: 1,
                 related: false,
-                noIframeBorder: true, //Optional: Disable insertion of <style> border: 0,
+                noIframeBorder: true,
                 autoplay: true
               }
+            },
+            {
+              resolve: `gatsby-remark-images-native-lazy-load`,
+              options: {
+                  loading: "lazy"
+                  }
             }
           ],
         },

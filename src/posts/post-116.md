@@ -3,7 +3,7 @@ path: "/tips/post-116"
 date: "2019-12-30"
 title: "How to create function required parameters in Javascript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499984/tips/116-1_foipyc.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499984/tips/116-1_foipyc.png'
 description: 'Creating required parameters for functions in JS'
 number: 116
 status: true

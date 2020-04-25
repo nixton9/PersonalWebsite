@@ -29,7 +29,7 @@ const SEO = ({ title, description, image, pathname, article, lang }) => (
         }
         const organization = {
           url: `${pathname || '/'}`,
-          logo: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586452991/eduardoaraujo_yoaksn.png',
+          logo: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586452991/eduardoaraujo_yoaksn.png',
           name: 'Eduardo Araújo'
         }
         return (

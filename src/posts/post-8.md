@@ -3,7 +3,7 @@ path: "/tips/post-8"
 date: "2019-07-10"
 title: "Animated custom toggle button with CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586600134/tips/8-1_ckmj06.jpg'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586600134/tips/8-1_ckmj06.jpg'
 description: 'Creating an animated toggle button with HTML and CSS'
 number: 8
 status: true

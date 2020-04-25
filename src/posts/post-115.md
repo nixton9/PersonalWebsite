@@ -3,13 +3,13 @@ path: "/tips/post-115"
 date: "2019-12-27"
 title: "Automatically creating tooltips for acronyms with HTML"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499722/tips/115-1_wmdfnk.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499722/tips/115-1_wmdfnk.png'
 description: 'How to create tooltips for acronyms'
 number: 115
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587499804/tips/115-2_igl08b.png "HTML acronym tooptip")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587499804/tips/115-2_igl08b.png "HTML acronym tooptip")
 
 What's up guys? How was your Christmas?  
 Today we're back on our tips with a simple HTML tip. We'll see how we can use acronyms on a webpage and make it automatically display a tooltip to show the user the entire word!

@@ -23,8 +23,8 @@ const Home = () => {
 
           <section className="main" id="main">
             <IntroText>
-              Hey, I’m Eduardo. A <span>web <br class="br" />developer</span> from Portugal. <br class="br" /> 
-              Come in and get to know <br class="br" />me a bit!
+              Hey, I’m Eduardo. A <span>web <br className="br" />developer</span> from Portugal. <br className="br" /> 
+              Come in and get to know <br className="br" />me a bit!
             </IntroText>
 
             <SoftElement className="main__icons">

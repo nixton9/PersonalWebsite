@@ -3,13 +3,13 @@ path: "/tips/post-82"
 date: "2019-10-26"
 title: "Getting the user's position using the HTML Geolocation API"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587033377/tips/82-1_jazb1l.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587033377/tips/82-1_jazb1l.png'
 description: 'How to use the HTML Geolocation API'
 number: 82
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587033376/tips/82-fr_e7luca.png "Geolocation API")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587033376/tips/82-fr_e7luca.png "Geolocation API")
 
 How was your weekend guys? Hope you are having a nice start to the week!
 Today we'll be talking about how we can easily get the user location without any external libraries or plugins. Just by using HTML's native Geolocation API.

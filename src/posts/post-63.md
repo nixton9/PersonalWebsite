@@ -3,7 +3,7 @@ path: "/tips/post-63"
 date: "2019-09-25"
 title: "Creating a cool slider with a range input "
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586887014/tips/63-1_edov8c.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586887014/tips/63-1_edov8c.png'
 description: 'How to create a slider with a range input in HTML'
 number: 63
 status: true

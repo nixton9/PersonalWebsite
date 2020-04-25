@@ -3,13 +3,13 @@ path: "/tips/post-129"
 date: "2020-01-22"
 title: "How to control the way a image fits into its box with 'object-fit'"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587592281/tips/129-1_j3tela.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587592281/tips/129-1_j3tela.png'
 description: 'Controlling the look and aspect of an image in its box with object-fit'
 number: 129
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587592282/tips/129-2_ygeujz.png "CSS object-fit")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587592282/tips/129-2_ygeujz.png "CSS object-fit")
 
 How are you doing guys? 🤘  
 Today i want to show you a very neat CSS property that i just discovered recently: object-fit.

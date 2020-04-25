@@ -3,13 +3,13 @@ path: "/tips/post-105"
 date: "2019-12-07"
 title: "Easily creating different sized grids by using Bootstrap"
 languages: ['HTML', 'CSS', 'Bootstrap']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328570/tips/105-1_rik7nw.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328570/tips/105-1_rik7nw.png'
 description: 'Using the Bootstrap Grids'
 number: 105
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587328570/tips/105-2_fzm4yz.png "Bootstrap grid")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328570/tips/105-2_fzm4yz.png "Bootstrap grid")
 
 On my tip 92 I talked about what is Bootstrap and how to get started with it. Today we'll be covering one of the most used features on Bootstrap: the grid.
 

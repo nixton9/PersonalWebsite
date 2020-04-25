@@ -3,13 +3,13 @@ path: "/tips/post-89"
 date: "2019-11-09"
 title: "Creating a simple timeline with some CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587073988/tips/89-1_mrtaqz.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587073988/tips/89-1_mrtaqz.png'
 description: 'How to create a timeline with CSS'
 number: 89
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587073988/tips/89-2_x5rwip.png "Timeline")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587073988/tips/89-2_x5rwip.png "Timeline")
 
 Today we'll see how to easily create a timeline using some basic HTML and CSS, something that's often seen in websites.
 Timelines are a cool and visual way to show events or to present a bit of history about a brand for example.
