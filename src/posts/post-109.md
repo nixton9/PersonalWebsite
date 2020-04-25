@@ -3,7 +3,7 @@ path: "/tips/post-109"
 date: "2019-12-14"
 title: "Know your CSS selectors (part 2)"
 languages: ['CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587329873/tips/109-1_psbqo3.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587329873/tips/109-1_psbqo3.png'
 description: 'Part 2 of understanding some CSS selectors'
 number: 109
 status: true

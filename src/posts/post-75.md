@@ -3,7 +3,7 @@ path: "/tips/post-75"
 date: "2019-10-16"
 title: "Creating highly responsive images using the HTML 'picture' element"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586976505/tips/75-1_ddm7vn.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586976505/tips/75-1_ddm7vn.png'
 description: 'How to create highly responsive images with the picture element'
 number: 75
 status: true

@@ -3,7 +3,7 @@ path: "/tips/post-78"
 date: "2019-10-21"
 title: "Creating a card flip hover animation with some CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587031994/tips/78-1_z1tttw.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587031994/tips/78-1_z1tttw.png'
 description: 'How to create a card flip on hover with CSS'
 number: 78
 status: true

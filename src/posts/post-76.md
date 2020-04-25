@@ -3,7 +3,7 @@ path: "/tips/post-76"
 date: "2019-10-18"
 title: "Getting to know recursion in JavaScript"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587031185/tips/76-1_xhiiil.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587031185/tips/76-1_xhiiil.png'
 description: 'Understanding recursion in Javascript'
 number: 76
 status: true

@@ -3,7 +3,7 @@ path: "/tips/post-96"
 date: "2019-11-22"
 title: "Creating a cool glitch effect with CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587242743/tips/96-1_lllxs5.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587242743/tips/96-1_lllxs5.png'
 description: 'How to create a glitch effect in CSS'
 number: 96
 status: true

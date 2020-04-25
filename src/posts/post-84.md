@@ -3,7 +3,7 @@ path: "/tips/post-84"
 date: "2019-11-01"
 title: "Creating resizable elements with some basic CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587072643/tips/84-1_yp47xx.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587072643/tips/84-1_yp47xx.png'
 description: 'Using CSS to create resizable elements'
 number: 84
 status: true

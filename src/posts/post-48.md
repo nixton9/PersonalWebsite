@@ -3,7 +3,7 @@ path: "/tips/post-48"
 date: "2019-08-30"
 title: "The difference between 'let' and 'var' in JavaScript "
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586881147/tips/48-1_j0iqo2.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586881147/tips/48-1_j0iqo2.png'
 description: 'Understanding the difference between "let" and "var" in Javascript'
 number: 48
 status: true

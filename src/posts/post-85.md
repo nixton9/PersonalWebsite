@@ -3,7 +3,7 @@ path: "/tips/post-85"
 date: "2019-11-02"
 title: "Creating the Star Wars intro text effect only with CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587072867/tips/85-1_re6cxw.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587072867/tips/85-1_re6cxw.png'
 description: 'Using CSS to re-create the Start Wars intro effect'
 number: 85
 status: true

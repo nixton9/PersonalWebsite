@@ -3,7 +3,7 @@ path: "/tips/post-77"
 date: "2019-10-19"
 title: "Some of my favorite Web Dev related resources II "
 languages: ['Misc']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587031467/tips/77-1_xjuqai.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587031467/tips/77-1_xjuqai.png'
 description: 'Some cool resources for Web Development'
 number: 77
 status: true

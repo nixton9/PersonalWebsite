@@ -3,7 +3,7 @@ path: "/tips/post-61"
 date: "2019-09-21"
 title: "What are template literals in JS and they are so awesome"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1586886600/tips/61-1_zjfovm.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1586886600/tips/61-1_zjfovm.png'
 description: 'Using template literals in Javascript'
 number: 61
 status: true

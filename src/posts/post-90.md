@@ -3,7 +3,7 @@ path: "/tips/post-90"
 date: "2019-11-11"
 title: "Using some basic JS to create a simple image slideshow"
 languages: ['HTML', 'CSS', 'Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587074233/tips/90-1_cbirkb.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587074233/tips/90-1_cbirkb.png'
 description: 'Creating an image slideshow with some basic Javascript'
 number: 90
 status: true

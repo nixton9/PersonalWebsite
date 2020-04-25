@@ -3,13 +3,13 @@ path: "/tips/post-120"
 date: "2020-01-06"
 title: "Creating a ribbon only by using CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587500823/tips/120-1_my4ytx.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587500823/tips/120-1_my4ytx.png'
 description: 'How to create a ribbon with CSS'
 number: 120
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1587500824/tips/120-2_pw9sdk.png "CSS ribbon")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1587500824/tips/120-2_pw9sdk.png "CSS ribbon")
 
 Hey guys! 😁  
 Today I'll show you how to create a classic ribbon with some CSS. Ribbons are a fancy element that are commonly used in things like pop-ups, headers, etc. I'll show you how to do a pretty basic one but you can then easily customize it for it to look whatever you want to.
