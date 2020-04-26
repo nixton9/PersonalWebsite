@@ -7,20 +7,14 @@ import { Spacing } from '../styles/components/Spacing'
 import { graphql } from 'gatsby'
 import { formatLanguages } from '../utils/formatLanguages'
 
+
 class Template extends Component {
 
-  async componentDidMount() {
+  componentDidMount() {
     const video = document.querySelector('iframe')
     if(video) {
       this.addAutoplayToVideos(video)
       video.setAttribute('title', this.props.data.markdownRemark.frontmatter.title);
-    }
-    try {
-        const deckdeckgoHighlightCodeLoader = require("@deckdeckgo/highlight-code/dist/loader")
-    
-        await deckdeckgoHighlightCodeLoader.defineCustomElements(window);
-    } catch (err) {
-        console.error(err);
     }
   }
 
