@@ -6,11 +6,12 @@ import { SecondaryTitle } from '../styles/components/SecondaryTitle'
 import { Spacing } from '../styles/components/Spacing'
 import { graphql } from 'gatsby'
 import { formatLanguages } from '../utils/formatLanguages'
-
+import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader';
 
 class Template extends Component {
 
   componentDidMount() {
+    deckDeckGoHighlightElement()
     const video = document.querySelector('iframe')
     if(video) {
       this.addAutoplayToVideos(video)
