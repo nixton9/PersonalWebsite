@@ -3,7 +3,7 @@ path: "/tips/post-135"
 date: "2020-02-03"
 title: "Getting familiar with the Chrome DevTools (part 3)"
 languages: ['Chrome', 'Misc']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587970626/tips/135-1_tg7lj0.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587970626/tips/135-1_tg7lj0.png'
 description: 'Using the Chrome DevTools - Memory tab'
 number: 135
 status: true

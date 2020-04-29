@@ -3,13 +3,13 @@ path: "/tips/post-133"
 date: "2020-01-29"
 title: "How to use Font Awesome icons on your projects"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587969830/tips/133-1_k5furz.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587969830/tips/133-1_k5furz.png'
 description: 'Using Font Awesome icons'
 number: 133
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1587969830/tips/133-2_erbfdf.png "Font Awesome Icons")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587969830/tips/133-2_erbfdf.png "Font Awesome Icons")
 
 Hey guys, how are you? 😁  
 So, on my tip 125 I showed you how we can use icons on our websites without even to import any library, go check it out if you haven't. Today i want to show how we can use Icons from a library - more specifically Font Awesome!

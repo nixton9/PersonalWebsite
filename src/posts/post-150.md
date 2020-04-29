@@ -1,0 +1,27 @@
+---
+path: "/tips/post-150"
+date: "2020-03-04"
+title: "What extensions do I use on VSCode"
+languages: ['VSCode', 'Misc']
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588142782/tips/150-1_pxdsef.png'
+description: 'Using some handy extensions in VSCode'
+number: 150
+status: true
+---
+
+How are you guys? 😁
+I usually get a lot of people asking me what code editor i use ( VSCode ) and what extensions i use on it. So, i thought of sharing with you some of the extensions i use with VSCode and what do they do!
+
+**Auto Close Tag**, as the name says, automatically creates closing tags for all tags you write. So, if you write 'div' it will add '\div' straight away.
+
+**Auto Rename Tag** will rename the closing tag when you change the opening tag and vice versa. So if you have an 'h1' and you change the opening tag to 'h2', the closing tag will be renamed accordingly.
+
+**Material Dark** is a theme for VSCode. It's based on dark Material Design and it's quite simple and enjoyable.
+
+**ESLint** ( already made a tip about it here ) is a linting tool. You have to set your project to use it, and then it will let you know about potential errors and problems in your code.
+
+**Bracket Pair Colorizer** is awesome when you have a script that has blocks inside blocks inside blocks because it will give different colors to each pair of brackets. It is then much easier seeing where a block begins and ends.
+
+**Vscode styled components** will enable syntax highlighting for Styled Components and it's a must for anyone that uses them!
+
+What about you? What extensions do you use? 🤔

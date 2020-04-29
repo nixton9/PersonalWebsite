@@ -10,9 +10,9 @@ module.exports = {
     titleTemplate: "%s · Eduardo Araújo",
     description:
       "Web Developer from Portugal. And I love to share tips!",
-    url: "https://www.eduardoaraujo.com",
-    siteUrl: "https://www.eduardoaraujo.com",
-    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586369866/webdevtips_oia3w7.png",
+    url: "https://www.eduardo-araujo.com",
+    siteUrl: "https://www.eduardo-araujo.com",
+    image: "https://res.cloudinary.com/duejrcpct/image/upload/v1586452991/eduardoaraujo_yoaksn.png",
     twitterUsername: "@eddaraujo9",
   },
   plugins: [

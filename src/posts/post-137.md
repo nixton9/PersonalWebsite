@@ -3,13 +3,13 @@ path: "/tips/post-137"
 date: "2020-02-07"
 title: "Adding fonts to your website using Google Fonts"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587971440/tips/137-1_xounkt.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587971440/tips/137-1_xounkt.png'
 description: 'How to use fonts from Google Fonts on your websites'
 number: 137
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1587971441/tips/137-2_p8rfxc.png "Google Fonts")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587971441/tips/137-2_p8rfxc.png "Google Fonts")
 
 Hope you're having a good Friday guys 😎  
 Today we're talking a little about Google Fonts. I know most of you may already know this, but for those who don't i think it will be a great tip.

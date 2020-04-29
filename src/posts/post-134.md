@@ -3,7 +3,7 @@ path: "/tips/post-134"
 date: "2020-01-31"
 title: "Using HTML5 to create a link that downloads a file"
 languages: ['HTML']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1587970223/tips/134-1_avqen3.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587970223/tips/134-1_avqen3.png'
 description: 'How to create a link to download a file in HTML'
 number: 134
 status: true
