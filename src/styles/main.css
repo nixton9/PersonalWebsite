@@ -50,6 +50,15 @@ select:-webkit-autofill {
     border-radius: 20px;
 }
 
+/* Fix anchor smooth scroll positioning */
+#about::before, #contact::before{
+    display: block;
+    content: '';
+    margin-top: -4rem;
+    height: 4rem;
+  }
+
+
 
 
 
