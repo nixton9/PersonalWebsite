@@ -33,7 +33,6 @@ const SEO = ({ title, description, image, pathname, article, lang }) => {
             logo: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586452991/eduardoaraujo_yoaksn.png',
             name: 'Eduardo Araújo'
           }
-          console.log(seo)
           return (
               <>
                   <Helmet title={seo.title} titleTemplate={titleTemplate} htmlAttributes={{lang}}>

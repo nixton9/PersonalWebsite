@@ -11,10 +11,14 @@ import { SubTitle } from '../styles/components/SubTitle'
 import { Text } from '../styles/components/Text'
 import { SoftElement } from '../styles/components/SoftElement'
 import { Spacing } from '../styles/components/Spacing'
+import SmoothScroll from 'smooth-scroll';
 
 const Home = () => {
   if (typeof window !== "undefined") {
-    require("smooth-scroll")('a[href*="#"]')
+    var scroll = new SmoothScroll('a[href*="#"]', {
+      speed: 600,
+      offset: 125
+    });
   }
   return (
     <Layout>

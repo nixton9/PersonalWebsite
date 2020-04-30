@@ -13,23 +13,25 @@ const Navbar = props => {
     return (
         <>
             <NavbarContainer>
-                <div className="logo">
-                    <Logo />
-                </div>
+                <div className="navbar-content">
+                    <div className="logo">
+                        <Logo />
+                    </div>
 
-                <div className="navigation">
-                    <Link className="navigation__item" to="/">Home</Link>
-                    <Link className="navigation__item" to="/#about">About</Link>
-                    <Link className="navigation__item" to="/tips">Tips</Link>
-                    <Link className="navigation__item" to="/#contact">
-                        <Button className="bg-hover">Let's chat</Button>
-                    </Link>
-                </div>
+                    <div className="navigation">
+                        <Link className="navigation__item" to="/#">Home</Link>
+                        <Link className="navigation__item" data-scroll to="/#about">About</Link>
+                        <Link className="navigation__item" data-scroll to="/tips">Tips</Link>
+                        <Link className="navigation__item" to="/#contact">
+                            <Button className="bg-hover">Let's chat</Button>
+                        </Link>
+                    </div>
 
-                <div className="hamburguer" onClick={() => setIsMenuOpen(true)}>
-                    <span></span>
-                    <span></span>
-                    <span></span>
+                    <div className="hamburguer" onClick={() => setIsMenuOpen(true)}>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
                 </div>
             </NavbarContainer>
 
@@ -37,9 +39,9 @@ const Navbar = props => {
                 <div className="close">+</div>
                 <div className="items">
                     <Link className="navigation__item" to="/">Home</Link>
-                    <Link className="navigation__item" to="/#about">About</Link>
+                    <Link className="navigation__item" data-scroll to="/#about">About</Link>
                     <Link className="navigation__item" to="/tips">Tips</Link>
-                    <Link className="navigation__item" to="/#contact">
+                    <Link className="navigation__item" data-scroll to="/#contact">
                         <Button className="bg-hover">Let's chat</Button>
                     </Link>
                 </div>

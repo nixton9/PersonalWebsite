@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2048" height="2048" viewBox="0 0 2048 2048">
+  <defs>
+    <clipPath id="clip-LOGO-SITE">
+      <rect width="2048" height="2048"/>
+    </clipPath>
+  </defs>
+  <g id="LOGO-SITE" clip-path="url(#clip-LOGO-SITE)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="976.5" cy="976.5" r="976.5" transform="translate(48 48)" fill="#292e35"/>
+    <text id="WEBDEVTIPS" transform="translate(413 1079)" fill="#fff" font-size="143" font-family="Muli-Black, Muli" font-weight="800" letter-spacing="0.2em"><tspan x="0" y="0">WEB</tspan><tspan y="0" font-family="Muli-Light, Muli" font-weight="300">DEV</tspan><tspan y="0" fill="#4605ff">TIPS</tspan></text>
+  </g>
+</svg>

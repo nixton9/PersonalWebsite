@@ -50,7 +50,8 @@ export const SingleTipContainer = styled.section`
         }
 
         .deckgo-highlight-code-carbon {
-            margin-bottom: ${theme.spacingXL};
+            max-width: 100rem;
+            margin: 0 auto ${theme.spacingXL} auto;
             font-size: 1.5rem;
             color: ${theme.white};
             padding: ${theme.spacingXS};

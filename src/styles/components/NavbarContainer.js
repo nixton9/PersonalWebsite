@@ -2,13 +2,22 @@ import styled from 'styled-components'
 import { theme, device } from '../theme';
 
 export const NavbarContainer = styled.nav`
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
     position: fixed;
-    width: ${theme.containerL};
-    top: 3rem;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: ${theme.spacingS} 0;
     z-index: 11;
+    background-color: ${theme.backgroundGrey};
+    box-shadow: 0 3px 11px rgb(16, 25, 27, .9);
+
+    .navbar-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: ${theme.containerL};
+        margin: 0 auto;
+    }
 
     .navigation {
         .navigation__item {

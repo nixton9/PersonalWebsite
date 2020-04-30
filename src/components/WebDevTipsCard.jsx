@@ -4,12 +4,12 @@ import { SoftElement } from '../styles/components/SoftElement'
 import { SubTitle } from '../styles/components/SubTitle'
 import { Button } from '../styles/components/Button'
 import { WDTCard } from '../styles/components/WDTCard'
-import logo from '../assets/logo.svg'
+import logoblack from '../assets/logoblack.svg'
 
 const WebDevTipsCard = () => (
     <WDTCard>
         <SoftElement className="banner">
-            <img src={logo} alt="WebDevTips" />
+            <img src={logoblack} alt="WebDevTips" />
             <div>
                 <SubTitle>
                     Sharing all sorts of Web Dev related tips on my Instagram page and here on this website!
