@@ -15,6 +15,7 @@ import SmoothScroll from 'smooth-scroll';
 
 const Home = () => {
   if (typeof window !== "undefined") {
+    // eslint-disable-next-line global-require
     require("smooth-scroll")('a[href*="#"]')
   }
   return (

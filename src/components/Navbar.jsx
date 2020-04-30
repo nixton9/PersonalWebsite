@@ -20,8 +20,8 @@ const Navbar = props => {
 
                     <div className="navigation">
                         <Link className="navigation__item" to="/#">Home</Link>
-                        <Link className="navigation__item" data-scroll to="/#about">About</Link>
-                        <Link className="navigation__item" data-scroll to="/tips">Tips</Link>
+                        <Link className="navigation__item" to="/#about">About</Link>
+                        <Link className="navigation__item" to="/tips">Tips</Link>
                         <Link className="navigation__item" to="/#contact">
                             <Button className="bg-hover">Let's chat</Button>
                         </Link>
@@ -39,9 +39,9 @@ const Navbar = props => {
                 <div className="close">+</div>
                 <div className="items">
                     <Link className="navigation__item" to="/">Home</Link>
-                    <Link className="navigation__item" data-scroll to="/#about">About</Link>
+                    <Link className="navigation__item" to="/#about">About</Link>
                     <Link className="navigation__item" to="/tips">Tips</Link>
-                    <Link className="navigation__item" data-scroll to="/#contact">
+                    <Link className="navigation__item" to="/#contact">
                         <Button className="bg-hover">Let's chat</Button>
                     </Link>
                 </div>
