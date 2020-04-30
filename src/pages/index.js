@@ -14,11 +14,8 @@ import { Spacing } from '../styles/components/Spacing'
 import SmoothScroll from 'smooth-scroll';
 
 const Home = () => {
-  if (process.browser) {
-    var scroll = new SmoothScroll('a[href*="#"]', {
-      speed: 600,
-      offset: 125
-    });
+  if (typeof window !== "undefined") {
+    require("smooth-scroll")('a[href*="#"]')
   }
   return (
     <Layout>
