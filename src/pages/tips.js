@@ -25,7 +25,12 @@ const Tips = ({ data: { allMarkdownRemark: { edges } } }) => {
 
   return (
     <Layout>
-        <SEO title="WebDev Tips" description="Handy Web Dev related tips on HTML, CSS, JS, React, etc." />
+        <SEO 
+          title={'WebDev Tips'} 
+          description={'Handy Web Dev related tips on HTML, CSS, JS, React, etc.'} 
+          pathname={'/tips'}
+          image={'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588268735/banner-twitter_y928lx.png'}
+        />
         <TipsContainer className="tips">
 
           <div className="tips__header">
