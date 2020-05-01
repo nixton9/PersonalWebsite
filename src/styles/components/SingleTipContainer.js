@@ -77,4 +77,10 @@ export const SingleTipContainer = styled.section`
             max-width: 100%;
         }
     }
+
+    @media ${device.mobileS} {
+        .empty-space {
+            padding-top: 25rem;
+        }
+    }
 `

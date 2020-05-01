@@ -33,6 +33,7 @@ export const TipsContainer = styled.div`
                 position: relative;
                 width: 50rem;
                 margin: 0 auto;
+                max-width: 100%;
                 
                 input {
                     width: 100%;
@@ -74,9 +75,17 @@ export const TipsContainer = styled.div`
     }
 
     @media ${device.tablet} {
-            .tips__form input {
-                height: 7rem !important;
-            }
+        .tips__form input {
+            height: 7rem !important;
         }
+    }
+
+    @media ${device.mobileM} {
+        padding-top: 10rem;
+
+        .tips__header h3{
+            margin-top: 5rem;
+        }
+    }
 
 `

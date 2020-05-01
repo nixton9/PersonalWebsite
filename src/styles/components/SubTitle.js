@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const SubTitle = styled.h3`
     color: ${theme.white};
@@ -11,5 +11,10 @@ export const SubTitle = styled.h3`
 
     span {
         color: ${theme.purple};
+    }
+
+    @media ${device.mobileS} {
+        font-size: 3.5rem;
+        line-height: 5rem;
     }
 `

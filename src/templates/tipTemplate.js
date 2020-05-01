@@ -47,7 +47,7 @@ class Template extends Component {
 
         <SingleTipContainer className="tip">
 
-          <Spacing />
+          <Spacing className="empty-space"/>
 
           <SecondaryTitle>{frontmatter.title}</SecondaryTitle>
 

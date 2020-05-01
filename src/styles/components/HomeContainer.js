@@ -55,6 +55,12 @@ export const HomeContainer = styled.div`
                 }
             }
         }
+
+        @media ${device.mobileS} {
+            .main__icons {
+                margin-top: 15rem;
+            }
+        }
     }
 
     .about__text {
@@ -69,6 +75,12 @@ export const HomeContainer = styled.div`
 
             h3 {
                 padding-left: 0;
+            }
+        }
+
+        @media ${device.mobileS} {
+            h3 {
+                padding-right: 4rem;
             }
         }
     }

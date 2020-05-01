@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const IntroText = styled.h1`
     color: ${theme.darkGrey};
@@ -11,5 +11,18 @@ export const IntroText = styled.h1`
 
     span {
         color: ${theme.white};
+    }
+
+    @media ${device.mobileM} {
+        font-size: 6rem;
+        line-height: 7.9rem;
+        padding-right: 1rem;
+        margin-top: 3rem;
+    }
+
+    @media ${device.mobileS} {
+        font-size: 5rem;
+        line-height: 6.9rem;
+        margin-top: 6rem;
     }
 `

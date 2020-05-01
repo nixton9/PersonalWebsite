@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { theme } from '../theme';
+import { theme, device } from '../theme';
 
 export const SecondaryTitle = styled.h2`
     max-width: 70%; 
@@ -10,4 +10,9 @@ export const SecondaryTitle = styled.h2`
     letter-spacing: .1rem;
     text-align: center;
     margin: 0 auto ${theme.spacingM} auto ;
+
+    @media ${device.mobileS} {
+        font-size: 6rem;
+        line-height: 8.3rem;
+    }
 `
