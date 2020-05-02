@@ -3,7 +3,7 @@ path: "/tips/post-156"
 date: "2020-03-18"
 title: "How to keep up-to-date with Web Development"
 languages: ['Misc']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1588229456/tips/156-1_ydh7cd.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588229456/tips/156-1_ydh7cd.png'
 description: 'Keeping updated in the Web Development industry'
 number: 156
 status: true

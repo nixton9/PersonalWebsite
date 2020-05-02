@@ -3,13 +3,13 @@ path: "/tips/post-153"
 date: "2020-03-11"
 title: "What is the Critical Rendering Path and why it's a big deal"
 languages: ['Browser', 'Misc']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1588228792/tips/153-1_xzwnnc.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588228792/tips/153-1_xzwnnc.png'
 description: 'Understanding the browser Critical Rendering Path'
 number: 153
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588228792/tips/153-2_ailotd.png "Critical Rendering Path")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588228792/tips/153-2_ailotd.png "Critical Rendering Path")
 
 Do you know what is the 'Critical Rendering Path' ?  
 Critical Rendering Path - or CRP - is a term that is often used in webdev especially when talking about performance. So what is this CRP?

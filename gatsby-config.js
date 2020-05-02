@@ -12,8 +12,8 @@ module.exports = {
       "Web Developer from Portugal. And I love to share tips!",
     url: "https://www.eduardo-araujo.com",
     siteUrl: "https://www.eduardo-araujo.com",
-    image: "https://res.cloudinary.com/duejrcpct/image/upload/v1586452991/eduardoaraujo_yoaksn.png",
-    defaultImage: "https://res.cloudinary.com/duejrcpct/image/upload/v1586452991/eduardoaraujo_yoaksn.png",
+    image: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586452991/eduardoaraujo_yoaksn.png",
+    defaultImage: "https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586452991/eduardoaraujo_yoaksn.png",
     twitterUsername: "@eddaraujo9",
   },
   plugins: [

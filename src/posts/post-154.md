@@ -3,7 +3,7 @@ path: "/tips/post-154"
 date: "2020-03-13"
 title: "Difference between using 'async' and 'defer' on your scripts"
 languages: ['Javascript']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1588228992/tips/154-1_hm4hvr.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588228992/tips/154-1_hm4hvr.png'
 description: 'Loading scripts with async and defer'
 number: 154
 status: true
@@ -16,7 +16,7 @@ Usually we write a script tag with a src attribute. On this attribute we'll plac
 
 Additionally, we can also add one of two attributes on the script tag: 'async' and 'defer'. Using them, makes the loading of a script behave differently. Let's see how.
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588228992/tips/154-2_pq3mob.png "Scripts with async and defer")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588228992/tips/154-2_pq3mob.png "Scripts with async and defer")
 
 With 'async' the browser will fetch the script asynchronously while the HTML is being parsed. When the fetch ends, the parsing will pause to execute the script. After this, the parsing will continue. An 'async' script will not block the page, but you should not use this on scripts that rely on another scripts since the first to be loaded will be executed straight away. It's better to use this when we are using a third-party script.
 

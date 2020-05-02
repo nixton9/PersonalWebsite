@@ -3,13 +3,13 @@ path: "/tips/post-158"
 date: "2020-03-23"
 title: "How to limit the number of lines in a text with CSS"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1588229923/tips/158-1_ixicri.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588229923/tips/158-1_ixicri.png'
 description: 'Using the line-clamp property in CSS'
 number: 158
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588229923/tips/158-2_hi1rv4.png "Limit lines in text with CSS")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588229923/tips/158-2_hi1rv4.png "Limit lines in text with CSS")
 
 Hey guys, hope you're having a good start to the week 😀🔥
 

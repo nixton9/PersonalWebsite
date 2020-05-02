@@ -3,13 +3,13 @@ path: "/tips/post-160"
 date: "2020-03-27"
 title: "Using the 'reversed' attribute in ordered lists in HTML"
 languages: ['HTML', 'CSS']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/v1588230484/tips/160-1_dn3ygi.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588230484/tips/160-1_dn3ygi.png'
 description: 'How to use the reversed attribute in ordered lists with HTML'
 number: 160
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588230483/tips/160-2_idjonb.png "HTML ol")
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588230483/tips/160-2_idjonb.png "HTML ol")
 
 Happy Friday guys! 😎🔥  
 Since it's been a while since i posted an HTML tip, decided to bring you one today: the reversed attribute on ordered list element.
