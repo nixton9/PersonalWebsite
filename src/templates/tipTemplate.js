@@ -52,6 +52,7 @@ class Template extends Component {
           <SecondaryTitle>{frontmatter.title}</SecondaryTitle>
 
           <div className="tip__meta">
+            <h3 className="lightgrey">#{frontmatter.number}</h3>
             <h3 className="purple">{formatLanguages(frontmatter.languages)}</h3>
             <h3>{frontmatter.date}</h3>
           </div>

@@ -17,6 +17,9 @@ export const SingleTipContainer = styled.section`
                 color: ${theme.purple};
                 text-transform: uppercase;
             }
+            &.lightgrey {
+                color: ${theme.lightGrey};
+            }
         }
     }
 

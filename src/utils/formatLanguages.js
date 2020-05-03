@@ -1,7 +1,11 @@
 export const formatLanguages = (langs) => {
     let languages = '';
-    langs.forEach(lang => {
-        languages += `${turnToDiminutive(lang)} `
+    langs.forEach((lang, i, arr) => {
+        if (i === arr.length - 1){ 
+            languages += `${turnToDiminutive(lang)} `
+        } else {
+            languages += `${turnToDiminutive(lang)} - `
+        }
     });
     return languages
 }
