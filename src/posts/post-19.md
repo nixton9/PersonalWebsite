@@ -9,7 +9,7 @@ number: 19
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/Db9nvLKyzFs`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588576124/tips/19-2_vh1rbh.gif "Custom scroll bar")
 
 In the last tip I showed you how you can easily change the text color and background when selecting it. To keep this vibe of being able to completely style your website to match you color pallete, I created this tip to show you how to customize the browser scrollbar.
 Doing this is extremely easy but it's only compatible with webkit based browsers. Just look at the third slide to see the little CSS needed to achieve this.

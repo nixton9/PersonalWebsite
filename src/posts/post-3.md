@@ -9,7 +9,7 @@ number: 3
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/UruLf7m2gwI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1588530878/tips/3-2_ehz6r3.gif "Animated gradient")
 
 CSS animations are awesome to give life to your layouts. Knowing how to do them (and when to use them, since we don't want to overuse them) is super important for any Web dev. With just some few lines of CSS you can create cool animations and, if done properly, improve the overall user experience.
 

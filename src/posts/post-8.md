@@ -9,7 +9,7 @@ number: 8
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/KLRWKX8QjIU`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588575189/tips/8-2_jd1nal.gif "Toggle button")
 
 Toggle buttons have been quite trendy for a while now. Whether it's for boolean fields on a form, or simply to toggle between a light and dark theme on your app, you can't go wrong with them. It's also a really cool way to spice up the old boring checkbox input, thus improving the user experience on mobile.
 

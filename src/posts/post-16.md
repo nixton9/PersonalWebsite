@@ -9,7 +9,7 @@ number: 16
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/iJwVGqWruVw`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588575767/tips/16-2_p2shav.gif "Input type color")
 
 Did you know that since HTML5 came out we now have an input type color ? This works like a traditional color picker for any cases where you want the user to pick a color for a form or whatever other purpose it may have.  
 In this snippet I'll show you how to use this - it's just 'input type="color" ' duh - and then change an element's background color with whatever color gets picked in the input.

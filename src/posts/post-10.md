@@ -9,7 +9,7 @@ number: 10
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/ljbLqlVfRMs`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588575379/tips/10-2_xa0luk.gif "Modal")
 
 Traditional modals have been used for so long in web design and will definitely stay that way for the near future. Whether it's for advertising pop-ups, newsletters sign-ups, to confirm a user action, or whatever other reason, modals are a great way to display specific content in a special way.
 

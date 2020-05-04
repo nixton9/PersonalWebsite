@@ -9,7 +9,7 @@ number: 20
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/KTUic5Dj3cg`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588576284/tips/20-2_bib4rt.gif "Simple parallax effect")
 
 The well known parallax effect - where basically different elements move at different speeds when you scroll the page thus creating a cool depth effect - has been here for a while now. It was a huge trend like 4/5 years ago that is now slowly dying. Still, it's pretty common to see subtle and really small parallax scroll effects on some websites.
 

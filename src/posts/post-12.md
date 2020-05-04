@@ -9,7 +9,7 @@ number: 12
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/0o7IV8VMSY0`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588575647/tips/12-2_by3h8v.gif "Sliding menu")
 
 For this tip, i decided to show how to create a simple side menu that will slide from the right. This type of menus have been pretty common for a while and are always a cool asset to add to your projects. They are also super simple to create!
 

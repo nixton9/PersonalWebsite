@@ -9,7 +9,7 @@ number: 18
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/H3FF6HCDrLU`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588575888/tips/18-2_moj4yn.gif "Text selection color")
 
 Nowadays it's pretty common to go a website , try to select some text on it, and notice how the background color of the selected text matches the website color palette.  
 This is quite easy to do and you only need some CSS for it. Check the last image to see how this is done!

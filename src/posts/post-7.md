@@ -9,7 +9,7 @@ number: 7
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/Q2QTE7c2q5w`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588574984/tips/7-2_ju5lw4.gif "Input suggestions")
 
 Did you know that you can create a text input and have a list of suggestions appear to the user as he's typing in, only with HTML?
 The 'datalist' tag does exactly that! You just need your typical text input with a attribute 'list' and then you create a 'datalist' element, with your 'options' inside, and give it an 'id' with the same value you used for the 'list' attribute in the text input.
