@@ -9,7 +9,7 @@ number: 57
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/z5fS0DXuX74`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702600/tips/57-2_zkw7mr.gif "React useState hook")
 
 Back in February, React 16.8 was introduced to the public and with it React Hooks came out. Basically Hooks allow us to use some functionalities that we could only use on Class Components, but now on Functional Components. And since, performance wise, Functional Components are the way to go, this is really awesome and helps us avoiding Class Components at all!
 

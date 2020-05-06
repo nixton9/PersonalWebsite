@@ -9,7 +9,7 @@ number: 78
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/Uj7T-xJT8Rs`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588705048/tips/78-2_qo6x4i.gif "CSS card flip")
 
 How was your weekend guys? Ready to start the week with some CSS?  
 Today I want to show you how can easily create a card flip animation on hover with some pretty basic CSS.

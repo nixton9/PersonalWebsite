@@ -9,7 +9,7 @@ number: 84
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/ZxE3ZPId0hQ`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588705274/tips/84-2_xjljpm.gif "Resizable HTML elements")
 
 Creating resizable HTML elements is super easy! CSS has a 'resize' property that you can use to allow an element to be resizable.
 

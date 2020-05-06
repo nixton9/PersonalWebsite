@@ -9,7 +9,7 @@ number: 36
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/YfffNIdni_g`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588701774/tips/36-2_vvx31x.gif "Font-size EM")
 
 Em units are a really powerful feature to help you create fully responsive layouts. An EM unit is equal to the default elements font size. So, if a 'p' element has a default font size of 16 px and you define a CSS rule for 'font-size:1.2em' , that element's font size will be equal to: 16x1.2.
 

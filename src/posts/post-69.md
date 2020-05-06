@@ -9,7 +9,7 @@ number: 69
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/dE8PedAqTcw`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588702851/tips/69-2_es71st.gif "CSS drop-down menu")
 
 Hey guys, how is your Saturday going?
 Today we'll see how we can easily create a dropdown menu with a few lines of HTML and CSS. Let's start?

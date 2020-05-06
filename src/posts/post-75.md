@@ -9,7 +9,7 @@ number: 75
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/vY7Z8_rQGvs`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588704910/tips/75-2_n0klyx.gif "HTML responsive images")
 
 Today we'll see a cool and really simple method to create responsive images for your websites. Basically, this method works by you providing different size and ratio images, that will then be used based on some criteria. To do this we'll be using the HTML 'picture' element.
 

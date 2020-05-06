@@ -9,7 +9,7 @@ number: 65
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/oEJ0hTYNBeI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702751/tips/65-2_j8ajfw.gif "HTML drag n drop")
 
 How are you guys? Today we will be learning how to easily create a drag and drop functionality using nothing but some HTML5 and JavaScript! For this case we'll use two lists ( 'ul' elements) and move some elements between them. After learning this, you can start applying this drag and drop functionality to whatever types of elements and scenarios you want to, the logic always remains similar.
 

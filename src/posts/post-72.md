@@ -9,7 +9,7 @@ number: 72
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/zw3V9jnh6H0`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588703111/tips/72-2_yaefnj.gif "React To-Do List")
 
 How are you guys?
 So, for today, I thought of showing you what I believe is the simplest way to create a Todo list with reactJS. This I a good tutorial for beginners in reactJS or people who want to start learning it, as you'll see it's pretty simple to code.

@@ -5,11 +5,11 @@ title: "How to create fullscreen sections with a video background"
 languages: ['HTML', 'CSS']
 img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1586718167/tips/28-1_bhiqf4.png'
 description: 'Creating a fullscreen video background in HTML'
-number: 3
+number: 28
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/3SH87ZGkHak`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588701606/tips/28-2_hw0ewh.gif "Animated gradient")
 
 Having sections with a video background is a great way to add some dynamic to your websites! This a been a trend for a while now and I'm sure it will stay that way for now.
 

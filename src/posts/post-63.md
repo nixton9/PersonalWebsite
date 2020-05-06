@@ -9,8 +9,7 @@ number: 63
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/ODnZ95lIFfY`
-
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1588702685/tips/63-2_mvu32j.gif "HTML slider")
 What's up guys?
 Today I want to show how to create a range input (or a slider input) and how to then customize it with some CSS. I'll also show you to then display the number we get from the input on a DOM element.
 

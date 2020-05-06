@@ -9,7 +9,7 @@ number: 71
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/dT7Agj0dxrk`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702959/tips/71-2_chrfxd.gif "CSS typing effect")
 
 What's up guys?
 Today we'll take a look at how to easily create a typing effect using nothing but CSS! This is a nice animation that goes well on a intro for a website, for example, and adds a little bit of flair to your page.

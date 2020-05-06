@@ -9,7 +9,7 @@ number: 85
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/nFMROiO0Jf8`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588705429/tips/85-2_rdrccd.gif "Star Wars effect")
 
 Any Star Wars fans?
 Today we'll be looking at how we can easily create the classic intro text effect displayed on the start of every Star Wars movie, only with some CSS.

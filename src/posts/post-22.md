@@ -9,7 +9,7 @@ number: 22
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/9cCFa2-3j5E`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588701287/tips/22-2_xfnihi.gif "Tooltip")
 
 The tooltip effect is pretty handy when you need to present some extra info to the user. One of it's mainly uses is, for example, when a user is about to perform some action and you want to use the tooltip to tell him what that action will do.
 

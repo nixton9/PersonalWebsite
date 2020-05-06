@@ -9,7 +9,7 @@ number: 39
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/TlcbqlsHgFk`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702020/tips/39-2_vbfzdo.gif "Smooth scroll")
 
 Having anchors on your page that take you to a different section on the same page using smooth scroll is nothing new. This has been around for a while but we used to have to do this using jQuery or vanilla JS. Now, we can do this using CSS only and it's only one line!
 

@@ -9,7 +9,7 @@ number: 56
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/qrFd67KNqjg`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702480/tips/56-2_bdsiwe.gif "CSS loading spinner")
 
 What's up guys? So today I want to share with you a really simple way to create a loading spinner animation that you can use on your projects!
 

@@ -9,7 +9,7 @@ number: 45
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/SznpCcw6Czg`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702269/tips/45-2_h3oms6.gif "CSS Filters")
 
 The CSS filter property is awesome! With it you can apply filters to your images, for example, where you can change the brightness, contrast, blur, opacity, saturation and a few more properties. This is pretty nifty to create cool hover effects as well 👌
 

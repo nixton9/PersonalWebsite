@@ -9,7 +9,7 @@ number: 51
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/m3SgAEYrhHc`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702391/tips/51-2_fyhmfv.gif "HTML editable content")
 
 Did you know that HTML5 allows us to create elements with editable content that the user can then edit on its own? Well, that's possible and it's super easy!
 

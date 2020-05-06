@@ -9,7 +9,7 @@ number: 42
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/hqQPij6EwPQ`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588702117/tips/42-2_ciysaq.gif "Image zoom on hover")
 
 Today i thought about showing you how to create a cool zoom effect in an image on hover. This is always handy to create more dynamic on your websites! -
 To do this, we need to have a div wrapping our image element. This will allow us to create the zoom effect without the image simply getting bigger.

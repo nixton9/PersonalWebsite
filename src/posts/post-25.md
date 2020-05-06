@@ -9,7 +9,7 @@ number: 25
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/GQOBmS5sVok`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588701457/tips/25-2_vqcg6a.gif "Expandable boxes")
 
 In this tip we'll cover another new element that HTML5 brought to us: expandable boxes (with the details and summary tags)!
 This allow us to have a tab with a title for example, and an arrow that when you click it will expand a section to show the user more content. And with this method.you won't need CSS or JS to create this functionality.
