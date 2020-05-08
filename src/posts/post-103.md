@@ -9,7 +9,7 @@ number: 103
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/T0jWzU91GMI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789502/tips/103-2_gnoha8.gif "Change website title")
 
 What's up guys? How is your week going?
 Today we'll see how we can easily change a website page title with some basic JavaScript!

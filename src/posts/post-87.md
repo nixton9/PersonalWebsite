@@ -9,7 +9,7 @@ number: 87
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/9LBmzvQMpZU`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588788448/tips/87-2_gakcam.gif "React context")
 
 React Context is an awesome feature that allows you to have access to props on a deep nested component without having to pass those props to every component down the tree.
 

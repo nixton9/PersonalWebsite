@@ -9,7 +9,7 @@ number: 101
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/La8SfB2_FrQ`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789328/tips/101-2_v8zmku.gif "CSS Sticky position")
 
 How is your weekend going guys?  
 So, some days ago I talked about the main types of 'position' in CSS - tip #95. But in that post I didn't talked about 'sticky' position because I wanted to show you a more practical example with it, so we'll cover it today!

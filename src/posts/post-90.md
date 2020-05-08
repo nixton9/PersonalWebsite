@@ -9,7 +9,7 @@ number: 90
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/x7-77KuxleI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789223/tips/90-2_ngnbdt.gif "Javascript slideshow")
 
 So today, for the first time, I have a tip that partially comes from another user. @housee47 came to me with this cool slideshow made in JavaScript and I only changed the visuals of it by tweaking the HTML and CSS.
 

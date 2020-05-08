@@ -9,7 +9,7 @@ number: 99
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/X0btVC2PEvk`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789072/tips/99-2_cmmfto.gif "React Spring animation")
 
 What's up guys?
 Today we'll be talking a bit about React Spring - an awesome library to help you create 'spring-physics based' animations in reactJS. If you go to their website and see some of their demos you'll be amazed by what you can create with this library!

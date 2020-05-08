@@ -9,7 +9,7 @@ number: 106
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/kk0CJhbAbyI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789620/tips/106-2_edwn0y.gif "Star parallax animation")
 
 For today's we'll see how we can create a parallax animation with some stars moving at different speeds. We'll use CSS and some basic JS to achieve it 👌
 

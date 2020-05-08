@@ -9,7 +9,7 @@ number: 86
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/dV3tHDrMGKw`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588788356/tips/86-2_tkkoym.gif "JS Event Listeners")
 
 Today we'll be talking a bit about Event Listeners in JavaScript - a popular topic that you probably already know or at least have heard something about. So what is an Event Listener?
 

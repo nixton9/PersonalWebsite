@@ -9,7 +9,7 @@ number: 96
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/9mKFMKJC2p0`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588788932/tips/96-2_s3xvum.gif "CSS Glitch effect")
 
 How's your Friday going guys?  
 Today we have an awesome tip on how to create a 'glitch' effect with some CSS.

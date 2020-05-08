@@ -9,7 +9,7 @@ number: 93
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/2fLX3-nQLns`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588788709/tips/93-2_tkeo2g.gif "React useEffect hook")
 
 React Hooks are awesome! I already talked briefly about them and explained the 'useState' one on my tip 57. They allow you to use some functionalities on Functional Components that otherwise would only be possible to use on a Class Component.
 
