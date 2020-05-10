@@ -9,7 +9,7 @@ number: 114
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/jgha0Idy2Jk`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589111618/tips/114-2_rchzav.gif "Pointer Events")
 
 Hey guys! Today we'll be looking at the CSS 'pointer-events' property and its usage. Basically this property will define how a specific element should react to mouse events.
 

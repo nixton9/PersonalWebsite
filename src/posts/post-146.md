@@ -9,7 +9,7 @@ number: 146
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/d56jQ6Ji9Kc`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127318/tips/146-2_ljhrot.gif "Collapsable sidebar")
 
 Happy Monday guys 😁🔥  
 We'll start this week with a tip on how to create a sidebar with some icons and text and then we'll toggle it to collapse, hiding the text and keeping the icons. In order to do this we'll use some CSS and a couple of lines of JavaScript.

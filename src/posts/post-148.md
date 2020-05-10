@@ -9,7 +9,7 @@ number: 148
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/bH_CVFq2KsQ`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127414/tips/148-2_y7updh.gif "Javascript clock")
 
 Happy Friday guys 😎🔥  
 Hope you are having a productive day! For today's tip we'll see how we can easily create a clock with some JavaScript!

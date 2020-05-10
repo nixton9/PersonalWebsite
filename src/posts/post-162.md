@@ -9,7 +9,7 @@ number: 162
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/U40bzTv77PA`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127793/tips/162-2_dajz8k.gif "useReducer hook")
 
 Heyy, how are you guys? 😎🤘  
 So, on some previous tips I've showed you what are React hooks, why the are awesome, and some of the hooks we can use. Today we'll take a look at the 'useReducer' by creating a card with the button that will alternate between three states: to do, doing & done.

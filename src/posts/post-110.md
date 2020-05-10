@@ -9,7 +9,7 @@ number: 110
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/lT8gMSALaCo`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589111298/tips/110-2_knpaqp.gif "Scroll snap CSS")
 
 What's up guys? Ready to start the week with a cool CSS tip? Today we'll be looking how to easily create a scroll snap effect from scratch! This is an awesome and handy effect that makes when the window snap and lock to specific points when the user is scrolling.
 

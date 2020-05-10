@@ -9,7 +9,7 @@ number: 124
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/Juw4efbgeK4`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589111941/tips/124-2_jsme70.gif "HTML & CSS Tabs")
 
 Hey guys! 🤓✌  
 So today we'll be seeing how we can easily create Tabs for different content by using some HTML, CSS and JavaScript.

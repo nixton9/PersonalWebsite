@@ -9,7 +9,7 @@ number: 127
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/ZDPqhiOGdnU`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1589118957/tips/127-2_vbsj8j.gif "React Router")
 
 Heey, how is your weekend going? 😁  
 Today we'll talk a bit about React Router, the easiest way to implement routing on your React apps!

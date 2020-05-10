@@ -9,7 +9,7 @@ number: 132
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/CpZW4HJI-t4`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589126789/tips/132-2_c5ivtb.gif "Button hover")
 
 How was your weekend guys?  
 Ready to start the week with a little CSS tip?

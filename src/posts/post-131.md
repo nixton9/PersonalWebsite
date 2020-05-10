@@ -9,7 +9,7 @@ number: 131
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/1ylyh6zWT4k`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589126591/tips/131-2_jl5rh6.gif "React redux todo list")
 
 Hey guys! Ready for the second part on our little Redux tutorial?  
 So yesterday, i posted a tip on the 'Easiest way to get started with Redux' where i should you the first steps to set up Redux to create a Todo list with React and how we could list our todos.

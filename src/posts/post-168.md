@@ -9,7 +9,7 @@ number: 168
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/9oIo6kGu1LI`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589128098/tips/168-2_wexmst.gif "Custom cursor")
 
 What's up guys, all good? 🤘  
 Have you ever used custom cursors on your websites?

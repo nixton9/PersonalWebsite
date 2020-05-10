@@ -9,7 +9,7 @@ number: 134
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/NrLMVnSX15g`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589126874/tips/134-2_dcbyyp.gif "HTML file download")
 
 Happy Friday guys, how are you? 😁  
 For today we have a simple tip on how to create links for downloadable files on your website, it's really simple!

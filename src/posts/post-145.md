@@ -9,7 +9,7 @@ number: 145
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/D366j0FNoII`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127190/tips/145-2_marne9.gif "React Transition Group")
 
 Hope you're having a nice Friday guys 😁👌  
 React Transition Group is an awesome reactJS library that helps us animate components that are entering or leaving the page.

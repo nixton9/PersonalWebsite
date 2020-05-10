@@ -9,7 +9,7 @@ number: 164
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/nujrOY7mzrY`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127918/tips/164-2_ebvmao.gif "HTML tabindex")
 
 
 How are you guys? Have you been working from home? 🤔  

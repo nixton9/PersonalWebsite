@@ -9,7 +9,7 @@ number: 141
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/xiMzw_nYTrQ`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127083/tips/141-2_qgkcel.gif "SVG Loader")
 
 Hey guys, how are you?
 For today's tip well see how we can do a loading spinner, all made from scratch using SVG. This will show us a bit about how we can animate SVG's on a webpage.

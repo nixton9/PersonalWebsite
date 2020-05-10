@@ -9,7 +9,7 @@ number: 155
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/CPiDVWumV8c`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589127675/tips/155-2_r5nmnx.gif "React image comparison slider")
 
 Hello guys, hope all of you are well despite these recent news. More then ever, we need to be strong and united ♥️
 

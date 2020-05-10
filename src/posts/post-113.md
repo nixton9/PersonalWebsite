@@ -9,7 +9,7 @@ number: 113
 status: true
 ---
 
-`youtube: https://www.youtube.com/embed/ULI3vDd-lco`
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1589111393/tips/113-2_dgny5h.gif "Forms in React")
 
 So today I thought of showing you how to handle forms when using reactJS. Forms are a big part in any application and often play a big role in them.
 
