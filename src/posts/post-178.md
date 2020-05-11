@@ -1,6 +1,6 @@
 ---
 path: "/tips/post-178"
-date: "2020-04-07"
+date: "2020-05-07"
 title: "Creating scroll animations with ScrollMagic"
 languages: ['HTML', 'CSS', 'JS']
 img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1588780412/tips/178-1_pto7de.png'
