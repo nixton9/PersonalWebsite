@@ -10,7 +10,7 @@ status: true
 ---
 
 What's up guys?
-A while ago I posted (tip #38) some of my favorite resources that I use the most, related to Web Dev off course. Today I thought of showing a few more things that I really like to use and I believe it can be of value to you!
+A while ago I posted (tip [#38](/tips/post-38)) some of my favorite resources that I use the most, related to Web Dev off course. Today I thought of showing a few more things that I really like to use and I believe it can be of value to you!
 
 The first one is probably the most known one here: Google Fonts. They have a huge amount of fonts that you can easily use on your websites. They also have a CDN for it so you don't even have to download them, just include the CDN link!
 

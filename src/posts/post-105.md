@@ -11,7 +11,7 @@ status: true
 
 ![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587328570/tips/105-2_fzm4yz.png "Bootstrap grid")
 
-On my tip 92 I talked about what is Bootstrap and how to get started with it. Today we'll be covering one of the most used features on Bootstrap: the grid.
+On my tip [#92](/tips/post-92) I talked about what is Bootstrap and how to get started with it. Today we'll be covering one of the most used features on Bootstrap: the grid.
 
 Bootstrap's grid is really cool and simple to use. You just have to write some HTML with the correct classes and it will automatically create a grid with whatever number of items you want. So let's see how we can use it!
 

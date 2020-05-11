@@ -12,7 +12,7 @@ status: true
 ![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789328/tips/101-2_v8zmku.gif "CSS Sticky position")
 
 How is your weekend going guys?  
-So, some days ago I talked about the main types of 'position' in CSS - tip #95. But in that post I didn't talked about 'sticky' position because I wanted to show you a more practical example with it, so we'll cover it today!
+So, some days ago I talked about the main types of 'position' in CSS - tip [#95](/tips/post-95). But in that post I didn't talked about 'sticky' position because I wanted to show you a more practical example with it, so we'll cover it today!
 
 As you can see in the video, we have a navbar on the page and when you scroll to it, it will stick to the top of the page. Sticky position allows us to have a element anywhere on the page, and when you scroll to it's position it will get stuck to a specific point. But, until that point, the element will remain on it's default place in the document flow. With this we can create a lot of cool stuff. 
 

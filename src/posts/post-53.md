@@ -9,7 +9,7 @@ number: 53
 status: true
 ---
 
-So in my tip #47 I talked about what are lifecycle methods in reactJS, why they are so important and showed two of the most used methods - componentDidMount and componentDidUpdate.
+So on my tip [#47](/tips/post-47) I talked about what are lifecycle methods in reactJS, why they are so important and showed two of the most used methods - componentDidMount and componentDidUpdate.
 
 On today's post I want to talk to you about two other of the most useful lifecycle methods in reactJS: componentWillUnmount and shouldComponentUpdate.
 

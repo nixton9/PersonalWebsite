@@ -11,7 +11,7 @@ status: true
 
 ![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588788709/tips/93-2_tkeo2g.gif "React useEffect hook")
 
-React Hooks are awesome! I already talked briefly about them and explained the 'useState' one on my tip 57. They allow you to use some functionalities on Functional Components that otherwise would only be possible to use on a Class Component.
+React Hooks are awesome! I already talked briefly about them and explained the 'useState' one on my tip [#57](/tips/post-57). They allow you to use some functionalities on Functional Components that otherwise would only be possible to use on a Class Component.
 
 So today we'll be looking at the useEffect hook. What this Hook does is similar to what the 'componentDidMount' and 'shouldComponentUpdate' lifecycle methods do. Since lifecycle methods can only be used in Class Components, this Hook allows you to do something alike on a Functional Component.
 

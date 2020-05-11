@@ -9,7 +9,7 @@ number: 109
 status: true
 ---
 
-How is your Saturday going guys? Today we'll be seeing some cool CSS selectors that you can and should use. This is a Part 2 of this topic, you can check Part 1 on my tip #60 so find some more practical CSS selectors.
+How is your Saturday going guys? Today we'll be seeing some cool CSS selectors that you can and should use. This is a Part 2 of this topic, you can check Part 1 on my tip [#60](/tips/post-60) so find some more practical CSS selectors.
 
  ```css
 .container a {

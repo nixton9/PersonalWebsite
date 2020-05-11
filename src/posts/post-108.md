@@ -11,7 +11,7 @@ status: true
 
 ![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1588789721/tips/108-2_rihdfe.gif "React useRef")
 
-Hey guys! Today we'll be looking at another reactJS tip: using the useRef hook! On my tips #93 and #57 I've already discussed what are Hooks and showed you some of them, so if you don't know what these are I suggest you take a look at these tips first 🤓
+Hey guys! Today we'll be looking at another reactJS tip: using the useRef hook! On my tips [#93](/tips/post-93) and [#57](/tips/post-57) I've already discussed what are Hooks and showed you some of them, so if you don't know what these are I suggest you take a look at these tips first 🤓
 
 This useRef hook is used to create a ref. A ref is a reference that we can stick on an element thus making it easier for us to control that element, get some value from it, etc. For today's tip we'll use a ref on an input and then we'll programmatically set focus on that input, by only using this ref. Let's see how to do this!
 

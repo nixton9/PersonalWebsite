@@ -11,7 +11,7 @@ status: true
 
 Hi guys, how was your weekend?
 To start this week, I thought of bringing another super important feature brought to us by ES6: classes!
-This addition basically brought us a new syntax to use some of the functionality we already had in JavaScript: using constructor functions and using the Prototype features ( see tip #54 ). This new syntax was a way of getting JS to have a more natural way of dealing with OOP - Object Oriented Programming.
+This addition basically brought us a new syntax to use some of the functionality we already had in JavaScript: using constructor functions and using the Prototype features ( see tip [#54](/tips/post-54) ). This new syntax was a way of getting JS to have a more natural way of dealing with OOP - Object Oriented Programming.
 
 To create a class, we just need to use the keyword 'class' followed by the name we want for this class (usually with the first letter in uppercase). We then can have our constructor inside, with some arguments, where we'll set some of the properties for our class when it is initialized.
 Inside the class when can define other properties and methods (functions) and add all the functionality we want.

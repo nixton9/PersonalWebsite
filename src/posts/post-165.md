@@ -11,7 +11,7 @@ status: true
 
 What's up guys, how are you? 🤓
 
-On my tip #159 i showed you how to create a repository on GitHub and put your code there. Since this is a pretty important topic I thought of having two more tips related to this. Today's tip will be about branches and on Friday I'll have a tip about Pull Requests. -
+On my tip [#159](/tips/post-159) i showed you how to create a repository on GitHub and put your code there. Since this is a pretty important topic I thought of having two more tips related to this. Today's tip will be about branches and on Friday I'll have a tip about Pull Requests. -
 So what is a branch on git? Basically it's like a independent line of development on your project. Say you have a project in git. Usually, that code will be all on the 'master' branch - by default the main branch on a repository.
 
 Now you want to add a new feature. Instead of using that branch, you can create a new one that will have exactly the same code but your new code will only be here - at least for now. You can mess around and do what you want with it and you'll never mess up the master branch.

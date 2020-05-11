@@ -12,7 +12,7 @@ status: true
 Hello guys, how are you? 🤓  
 Today we'll be seeing how we can create a repository on GitHub and then put some code there!
 
-I guess almost all of you know what git is and why it is so important. If that's not the case, o suggest to see my tip #66 first.
+I guess almost all of you know what git is and why it is so important. If that's not the case, o suggest to see my tip [#66](/tips/post-66) first.
 Let's say you have a project you are working on. Even if you don't plan to much with it, it's always a good idea to keep it in a repository. This way, you'll always have access to your code on any computer, you will never lose the code, and you can track the changes that your project will go through.
 
 Well, on GitHub we can create repositories and it's super easy! So let's go ahead and create an account on GitHub if you don't have one yet.

@@ -33,6 +33,10 @@ export const SingleTipContainer = styled.section`
             line-height: 4.9rem;
             margin-bottom: ${theme.spacingL};
 
+            a {
+                color: ${theme.white};
+            }
+
             span {
                 font-weight: 700;
                 color: ${theme.white}

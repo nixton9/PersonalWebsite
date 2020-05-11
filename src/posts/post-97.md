@@ -9,7 +9,7 @@ number: 97
 status: true
 ---
 
-On my tip 32 I talked about Local Storage - a feature of the Web API that allows us to save data on the browser in a 'key -> value' format. Today I'll be talking about Session Storage, something that's very similar to Local Storage but has a main difference.
+On my tip [#32](/tips/post-32) I talked about Local Storage - a feature of the Web API that allows us to save data on the browser in a 'key -> value' format. Today I'll be talking about Session Storage, something that's very similar to Local Storage but has a main difference.
 
 Session Storage allows us to also save data on the browser using a 'key -> value' format but unlike Local Storage, this data will be deleted when the Session ends. So, everytime the user closes the tab or the browser that data will be completely lost.
 

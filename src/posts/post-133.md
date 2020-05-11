@@ -12,7 +12,7 @@ status: true
 ![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1587969830/tips/133-2_erbfdf.png "Font Awesome Icons")
 
 Hey guys, how are you? 😁  
-So, on my tip 125 I showed you how we can use icons on our websites without even to import any library, go check it out if you haven't. Today i want to show how we can use Icons from a library - more specifically Font Awesome!
+So, on my tip [#125](/tips/post-125) I showed you how we can use icons on our websites without even to import any library, go check it out if you haven't. Today i want to show how we can use Icons from a library - more specifically Font Awesome!
 
 Font Awesome is a very cool Icons library that lets you use for free hundreds of custom made icons from different categories. You can also buy a Premium plan that will give you access to even more Icons, but for this tip we'll just go with the free version. Let's see how to use them 👍
 
