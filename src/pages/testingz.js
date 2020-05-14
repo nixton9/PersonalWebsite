@@ -3,7 +3,8 @@ import React from 'react'
 const Testing = () => {
 
 
-    let gyroscope = new window.Gyroscope({frequency: 60});
+    if (window) {
+        let gyroscope = new window.Gyroscope({frequency: 60});
     
     gyroscope.addEventListener('reading', e => {
         document.getElementById('x').innerHTML = gyroscope.x;
@@ -11,6 +12,7 @@ const Testing = () => {
         document.getElementById('z').innerHTML = gyroscope.z;
     });
     gyroscope.start();
+    }
     return (
     <div>
         <h1>Gyroscope</h1>
