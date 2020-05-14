@@ -1,18 +1,17 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 
 const Testing = () => {
 
-
-    if (window) {
+    useEffect(() => {
         let gyroscope = new window.Gyroscope({frequency: 60});
     
-    gyroscope.addEventListener('reading', e => {
-        document.getElementById('x').innerHTML = gyroscope.x;
-        document.getElementById('y').innerHTML = gyroscope.y;
-        document.getElementById('z').innerHTML = gyroscope.z;
-    });
-    gyroscope.start();
-    }
+        gyroscope.addEventListener('reading', e => {
+            document.getElementById('x').innerHTML = gyroscope.x;
+            document.getElementById('y').innerHTML = gyroscope.y;
+            document.getElementById('z').innerHTML = gyroscope.z;
+        });
+    })
+  
     return (
     <div>
         <h1>Gyroscope</h1>
