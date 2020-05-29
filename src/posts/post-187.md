@@ -3,7 +3,7 @@ path: "/tips/post-187"
 date: "2020-05-27"
 title: "Using the Container & Presentational pattern in React"
 languages: ['React']
-img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/q_auto/w_1000/v1590592617/tips/187-1_qv0e0e.png'
+img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1590592617/tips/187-1_qv0e0e.png'
 description: 'Splitting components in React into container and presentational'
 number: 187
 status: true
