@@ -1,11 +1,11 @@
 ---
-path: '/tips/post-201'
+path: '/tips/post-202'
 date: '2020-07-08'
 title: 'How to easily deploy an app on Heroku'
 languages: ['Misc', 'Heroku']
 img: 'https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/w_1000/v1594222567/tips/202-1_nyt4wn.png'
 description: 'Deploying apps on Heroku'
-number: 201
+number: 202
 status: true
 ---
 
