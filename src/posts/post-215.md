@@ -9,7 +9,7 @@ number: 215
 status: true
 ---
 
-![alt text](https://res.cloudinary.com/duejrcpct/image/upload/v1598455340/tips/215-2_agokix.png 'IDE - React & Typescript')
+![alt text](https://res.cloudinary.com/duejrcpct/image/upload/q_auto/v1598455340/tips/215-2_agokix.png 'IDE - React & Typescript')
 
 Hey guys, how are you? 😁🤘
 
