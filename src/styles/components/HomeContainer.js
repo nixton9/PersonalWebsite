@@ -99,6 +99,7 @@ export const HomeContainer = styled.div`
 
       button {
         font-size: 2rem;
+        padding: 2rem 3.5rem;
       }
 
       .color-hover {

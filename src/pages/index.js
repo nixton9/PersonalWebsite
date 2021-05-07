@@ -2,6 +2,7 @@ import React from 'react'
 import Layout from '../components/Layout'
 import SocialIcons from '../components/SocialIcons'
 import WebDevTipsCard from '../components/WebDevTipsCard'
+import WorkSection from '../components/WorkSection'
 import ContactForm from '../components/ContactForm'
 import SEO from '../components/SEO'
 import { HomeContainer } from '../styles/components/HomeContainer'
@@ -11,7 +12,6 @@ import { SubTitle } from '../styles/components/SubTitle'
 import { Text } from '../styles/components/Text'
 import { SoftElement } from '../styles/components/SoftElement'
 import { Spacing } from '../styles/components/Spacing'
-import { Button } from '../styles/components/Button'
 
 const Home = () => {
   if (typeof window !== 'undefined') {
@@ -70,69 +70,7 @@ const Home = () => {
 
         <Spacing />
 
-        <section className="word" id="work">
-          <MainTitle megaSpacing>stuff that I've done</MainTitle>
-
-          <div className="single-work grid5050">
-            <div className="single-work__content">
-              <SubTitle>TRCKR</SubTitle>
-              <Text>
-                TRCKR is a PWA that aims to help in personal organization. With
-                it, users can create, track, and organize notes, tasks, habits
-                and expenses. The app has quite some features, such as Push
-                Notifications, custom Android shortcuts, etc. It can be
-                downloaded from the Google Play Store.
-              </Text>
-              <div className="buttons">
-                <a href="https://landing.trckrapp.com/" target="_blank">
-                  <Button className="bg-hover">Visit App</Button>
-                </a>
-                <a href="https://github.com/nixton9/trackit-fe" target="_blank">
-                  <Button className="color-hover" inversed big>
-                    Check code
-                  </Button>
-                </a>
-              </div>
-            </div>
-
-            <img
-              src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/trckr_n8hnfo.png"
-              alt="Trckr app"
-            />
-          </div>
-
-          <div className="single-work grid5050">
-            <img
-              src="https://res.cloudinary.com/duejrcpct/image/upload/v1617124031/website/homepage_llicrh.png"
-              alt="Homepage app"
-            />
-
-            <div className="single-work__content">
-              <SubTitle>HOMEPAGE</SubTitle>
-              <Text>
-                Homepage is a web app that I made for personal use. I use it as
-                the start page of the browser so I can have quick access to:
-                Gmail, Github notifications, my todo list, the weather, Google
-                search and my most visited websites. It also has other pages for
-                stuff like: Dribbble feed, movies/TV shows recommendations,
-                news, and stock market updates.
-              </Text>
-              <div className="buttons">
-                <a
-                  href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
-                  target="_blank"
-                >
-                  <Button className="bg-hover">Preview App</Button>
-                </a>
-                <a href="https://github.com/nixton9/homepage" target="_blank">
-                  <Button className="color-hover" inversed big>
-                    Check code
-                  </Button>
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
+        <WorkSection />
 
         <Spacing />
 
