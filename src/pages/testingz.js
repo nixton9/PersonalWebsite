@@ -1,25 +1,10 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 
 const Testing = () => {
-
-    useEffect(() => {
-        let gyroscope = new window.Gyroscope({frequency: 60});
-    
-        gyroscope.addEventListener('reading', e => {
-            document.getElementById('x').innerHTML = gyroscope.x;
-            document.getElementById('y').innerHTML = gyroscope.y;
-            document.getElementById('z').innerHTML = gyroscope.z;
-        });
-    })
-  
-    return (
+  return (
     <div>
-        <h1>Gyroscope</h1>
-        <div className="results" style={{color: '#fff', fontSize: '22px'}}>
-            <div className="single-result">Value of X: <span id="x">0</span></div>
-            <div className="single-result">Value of Y: <span id="y">0</span></div>
-            <div className="single-result">Value of Z: <span id="z">0</span></div>
-        </div>
+      <h1>SMS test</h1>
+      <a href="sms://+351914765874?&body=Hello%20World">Send Text</a>
     </div>
   )
 }
