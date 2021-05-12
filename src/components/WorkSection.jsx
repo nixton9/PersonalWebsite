@@ -74,8 +74,8 @@ const WorkSection = () => (
           Traceless is a simple Chat App experiment that I did with Web Sockets.
           Users can join a room and chat with all the users in that room.
           Besides text messages, users can also send images to each other. Since
-          it's connected to any database, all messages will be cleared once a
-          user leaves or reloads the page.
+          it's not connected to any database, all messages will be cleared once
+          a user leaves or reloads the page.
         </Text>
         <div className="buttons">
           <a href="https://chat-app3870.herokuapp.com/" target="_blank">
