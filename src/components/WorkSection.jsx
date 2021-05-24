@@ -94,6 +94,13 @@ const WorkSection = () => (
         alt="Traceless app"
       />
     </div>
+
+    <div style={{ width: '500px' }}>
+      <img
+        style={{ maxWidth: '100%' }}
+        src="https://res.cloudinary.com/duejrcpct/image/upload/w_300/q_auto/f_auto/v1621435594/tips/291-1_lqlxub.png"
+      />
+    </div>
   </section>
 )
 
