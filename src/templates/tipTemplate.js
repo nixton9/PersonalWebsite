@@ -6,38 +6,44 @@ import { SecondaryTitle } from '../styles/components/SecondaryTitle'
 import { Spacing } from '../styles/components/Spacing'
 import { graphql } from 'gatsby'
 import { formatLanguages } from '../utils/formatLanguages'
-import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader';
+import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader'
 
 class Template extends Component {
-
   componentDidMount() {
     deckDeckGoHighlightElement()
     const video = document.querySelector('iframe')
-    if(video) {
+    if (video) {
       this.addAutoplayToVideos(video)
-      video.setAttribute('title', this.props.data.markdownRemark.frontmatter.title);
+      video.setAttribute(
+        'title',
+        this.props.data.markdownRemark.frontmatter.title
+      )
     }
   }
 
-  addAutoplayToVideos = (video) => {
+  addAutoplayToVideos = video => {
     const srcAttr = video.getAttribute('src')
     const videoID = this.getVideoID(srcAttr)
-    video.setAttribute('src', `${srcAttr}&autoplay=1&loop=1&playlist=${videoID}&showinfo=0&iv_load_policy=3&controls=0`)
+    video.setAttribute(
+      'src',
+      `${srcAttr}&autoplay=1&loop=1&playlist=${videoID}&showinfo=0&iv_load_policy=3&controls=0`
+    )
   }
 
-  getVideoID = (src) => {
-    var match = src.match(/^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/);
-    return (match&&match[7].length==11)?match[7]:false;
+  getVideoID = src => {
+    var match = src.match(
+      /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/
+    )
+    return match && match[7].length === 11 ? match[7] : false
   }
 
-  render () {
+  render() {
     const { markdownRemark } = this.props.data // data.markdownRemark holds your post data
     const { frontmatter, html } = markdownRemark
 
     return (
       <Layout>
-
-        <SEO 
+        <SEO
           title={`WebDev Tips . ${frontmatter.title}`}
           description={frontmatter.description}
           image={frontmatter.img}
@@ -46,8 +52,7 @@ class Template extends Component {
         />
 
         <SingleTipContainer className="tip">
-
-          <Spacing className="empty-space"/>
+          <Spacing className="empty-space" />
 
           <SecondaryTitle>{frontmatter.title}</SecondaryTitle>
 
@@ -61,7 +66,6 @@ class Template extends Component {
             className="tip__content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
-
         </SingleTipContainer>
       </Layout>
     )
@@ -69,7 +73,6 @@ class Template extends Component {
 }
 
 export default Template
-
 
 export const pageQuery = graphql`
   query($path: String!) {

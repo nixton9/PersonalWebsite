@@ -19,10 +19,18 @@ const WorkSection = () => (
           Play Store.
         </Text>
         <div className="buttons">
-          <a href="https://landing.trckrapp.com/" target="_blank">
+          <a
+            href="https://landing.trckrapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button className="bg-hover">Visit App</Button>
           </a>
-          <a href="https://github.com/nixton9/trackit-fe" target="_blank">
+          <a
+            href="https://github.com/nixton9/trackit-fe"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button className="color-hover" inversed big>
               Check code
             </Button>
@@ -55,10 +63,15 @@ const WorkSection = () => (
           <a
             href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
             target="_blank"
+            rel="noopener noreferrer"
           >
             <Button className="bg-hover">Preview App</Button>
           </a>
-          <a href="https://github.com/nixton9/homepage" target="_blank">
+          <a
+            href="https://github.com/nixton9/homepage"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button className="color-hover" inversed big>
               Check code
             </Button>
@@ -78,10 +91,18 @@ const WorkSection = () => (
           a user leaves or reloads the page.
         </Text>
         <div className="buttons">
-          <a href="https://chat-app3870.herokuapp.com/" target="_blank">
+          <a
+            href="https://chat-app3870.herokuapp.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button className="bg-hover">Visit App</Button>
           </a>
-          <a href="https://github.com/nixton9/ChatApp" target="_blank">
+          <a
+            href="https://github.com/nixton9/ChatApp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button className="color-hover" inversed big>
               Check code
             </Button>
@@ -92,13 +113,6 @@ const WorkSection = () => (
       <img
         src="https://res.cloudinary.com/duejrcpct/image/upload/v1620409218/website/final_b5qixi.png"
         alt="Traceless app"
-      />
-    </div>
-
-    <div style={{ width: '500px' }}>
-      <img
-        style={{ maxWidth: '100%' }}
-        src="https://res.cloudinary.com/duejrcpct/image/upload/w_300/q_auto/f_auto/v1621435594/tips/291-1_lqlxub.png"
       />
     </div>
   </section>
