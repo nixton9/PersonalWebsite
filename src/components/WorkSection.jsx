@@ -115,6 +115,45 @@ const WorkSection = () => (
         alt="Traceless app"
       />
     </div>
+
+    <div className="single-work grid5050">
+      <img
+        src="https://res.cloudinary.com/duejrcpct/image/upload/v1647784430/website/preview-homeapp_f5461s.png"
+        alt="HomeApp"
+      />
+
+      <div className="single-work__content">
+        <SubTitle>HOMEAPP</SubTitle>
+        <Text>
+          HomeApp is an app made with SvelteKit that allows me to control some
+          different types of smart lights that I have around my house. With it,
+          I can turn on/off all the lights, turn on/off a single light, change
+          it's color, brightness and set a theme on it if the device supports
+          it. It also allows me to create Scenes (called 'Modes' here) where I
+          assign a color to each device and then when I click on the Mode, the
+          devices that I have choosen will turn on and display the specified
+          color.
+        </Text>
+        <div className="buttons">
+          <a
+            href="https://res.cloudinary.com/duejrcpct/video/upload/v1647784433/website/video-homeapp_h03xje.mp4"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="bg-hover">Preview App</Button>
+          </a>
+          <a
+            href="https://github.com/nixton9/homeapp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="color-hover" inversed big>
+              Check code
+            </Button>
+          </a>
+        </div>
+      </div>
+    </div>
   </section>
 )
 
