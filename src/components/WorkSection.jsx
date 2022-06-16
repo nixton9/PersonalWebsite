@@ -46,29 +46,30 @@ const WorkSection = () => (
 
     <div className="single-work grid5050">
       <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/v1617124031/website/homepage_llicrh.png"
-        alt="Homepage app"
+        src="https://res.cloudinary.com/duejrcpct/image/upload/v1655388898/website/homeapp_mu15kn.png"
+        alt="HomeApp"
       />
 
       <div className="single-work__content">
-        <SubTitle>HOMEPAGE</SubTitle>
+        <SubTitle>HOMEAPP</SubTitle>
         <Text>
-          Homepage is a web app that I made for personal use. I use it as the
-          start page of the browser so I can have quick access to: Gmail, Github
-          notifications, my todo list, the weather, Google search and my most
-          visited websites. It also has other pages for stuff like: Dribbble
-          feed, movies/TV shows recommendations, news, and stock market updates.
+          HomeApp is an app made with SvelteKit that allows me to control some
+          different types of smart lights that I have around my house. With it I
+          can toggle the lights, change their color and brightness and I can
+          also create and toggle Scenes with the devices. It also displays some
+          information (Cpu & Ram usage, temperatures, etc) related to the device
+          where this is running - a Raspberry Pi.
         </Text>
         <div className="buttons">
           <a
-            href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
+            href="https://res.cloudinary.com/duejrcpct/video/upload/v1655390036/website/homeapp_wkoydz.mp4"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Button className="bg-hover">Preview App</Button>
           </a>
           <a
-            href="https://github.com/nixton9/homepage"
+            href="https://github.com/nixton9/homeapp"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -118,32 +119,29 @@ const WorkSection = () => (
 
     <div className="single-work grid5050">
       <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/v1647784430/website/preview-homeapp_f5461s.png"
-        alt="HomeApp"
+        src="https://res.cloudinary.com/duejrcpct/image/upload/v1617124031/website/homepage_llicrh.png"
+        alt="Homepage app"
       />
 
       <div className="single-work__content">
-        <SubTitle>HOMEAPP</SubTitle>
+        <SubTitle>HOMEPAGE</SubTitle>
         <Text>
-          HomeApp is an app made with SvelteKit that allows me to control some
-          different types of smart lights that I have around my house. With it,
-          I can turn on/off all the lights, turn on/off a single light, change
-          it's color, brightness and set a theme on it if the device supports
-          it. It also allows me to create Scenes (called 'Modes' here) where I
-          assign a color to each device and then when I click on the Mode, the
-          devices that I have choosen will turn on and display the specified
-          color.
+          Homepage is a web app that I made for personal use. I use it as the
+          start page of the browser so I can have quick access to: Gmail, Github
+          notifications, my todo list, the weather, Google search and my most
+          visited websites. It also has other pages for stuff like: Dribbble
+          feed, movies/TV shows recommendations, news, and stock market updates.
         </Text>
         <div className="buttons">
           <a
-            href="https://res.cloudinary.com/duejrcpct/video/upload/v1647784433/website/video-homeapp_h03xje.mp4"
+            href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Button className="bg-hover">Preview App</Button>
           </a>
           <a
-            href="https://github.com/nixton9/homeapp"
+            href="https://github.com/nixton9/homepage"
             target="_blank"
             rel="noopener noreferrer"
           >
