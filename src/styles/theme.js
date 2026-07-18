@@ -3,7 +3,7 @@ export const theme = {
   purple: '#4605FF',
   hoverPurple: '#3e15b3',
   backgroundGrey: '#10191B',
-  darkGrey: '#292E35',
+  darkGrey: '#3c434d',
   lightGrey: '#B2BECD',
   mainBordeRadius: '20px',
   hackyBordeRadius: '22px',

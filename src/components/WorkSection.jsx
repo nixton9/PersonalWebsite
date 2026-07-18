@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import { MainTitle } from '../styles/components/MainTitle'
 import { SubTitle } from '../styles/components/SubTitle'
 import { Text } from '../styles/components/Text'
@@ -9,6 +10,11 @@ const WorkSection = () => (
     <MainTitle megaSpacing>stuff that I've done</MainTitle>
 
     <div className="single-work grid5050">
+      <img
+        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/trckr_n8hnfo.png"
+        alt="Trckr app"
+      />
+
       <div className="single-work__content">
         <SubTitle>TRCKR</SubTitle>
         <Text>
@@ -37,10 +43,29 @@ const WorkSection = () => (
           </a>
         </div>
       </div>
+    </div>
+
+    <div className="single-work grid5050">
+      <div className="single-work__content">
+        <SubTitle>Skedul</SubTitle>
+        <Text>
+          Skedul is a platform that allows businesses to create, customise, and
+          deploy standalone booking forms tailored to their specific needs. My
+          work involved a UI/UX redesign focused on creating a more engaging,
+          intuitive, and approachable experience — making the app less complex
+          and helping all types of users quickly build forms that fit their
+          workflows.
+        </Text>
+        <div className="buttons">
+          <Link to="/work/skedul">
+            <Button className="bg-hover">See Use Case</Button>
+          </Link>
+        </div>
+      </div>
 
       <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/trckr_n8hnfo.png"
-        alt="Trckr app"
+        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/laptop_mockup_transparent_v2_ydlifd.png"
+        alt="Skedul app"
       />
     </div>
 
