@@ -47,25 +47,25 @@ const WorkSection = () => (
 
     <div className="single-work grid5050">
       <div className="single-work__content">
-        <SubTitle>Skedul</SubTitle>
+        <SubTitle>Docket</SubTitle>
         <Text>
-          Skedul is a platform that allows businesses to create, customise, and
-          deploy standalone booking forms tailored to their specific needs. My
-          work involved a UI/UX redesign focused on creating a more engaging,
-          intuitive, and approachable experience — making the app less complex
-          and helping all types of users quickly build forms that fit their
-          workflows.
+          Docket is a platform that helps bookkeepers and accountants manage
+          document collection across clients, by defining required documents and
+          their deadlines. The app then handles reminders automatically. My
+          focus was the UI/UX design, focused on making a naturally repetitive,
+          multi-client workflow feel organised and effortless — from setting up
+          document requests to tracking submission status at a glance.
         </Text>
         <div className="buttons">
-          <Link to="/work/skedul">
+          <Link to="/work/docket">
             <Button className="bg-hover">See Use Case</Button>
           </Link>
         </div>
       </div>
 
       <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/laptop_mockup_transparent_v2_ydlifd.png"
-        alt="Skedul app"
+        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1787656994/website/docket-mockup-transparent_1_r5ajm7.png"
+        alt="Docket app"
       />
     </div>
 
@@ -95,6 +95,66 @@ const WorkSection = () => (
           </a>
           <a
             href="https://github.com/nixton9/homeapp"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="color-hover" inversed big>
+              Check code
+            </Button>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div className="single-work grid5050">
+      <div className="single-work__content">
+        <SubTitle>Skedul</SubTitle>
+        <Text>
+          Skedul is a platform that allows businesses to create, customise, and
+          deploy standalone booking forms tailored to their specific needs. My
+          work involved a UI/UX redesign focused on creating a more engaging,
+          intuitive, and approachable experience — making the app less complex
+          and helping all types of users quickly build forms that fit their
+          workflows.
+        </Text>
+        <div className="buttons">
+          <Link to="/work/skedul">
+            <Button className="bg-hover">See Use Case</Button>
+          </Link>
+        </div>
+      </div>
+
+      <img
+        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1617124030/website/laptop_mockup_transparent_v2_ydlifd.png"
+        alt="Skedul app"
+      />
+    </div>
+
+    <div className="single-work grid5050">
+      <img
+        src="https://res.cloudinary.com/duejrcpct/image/upload/v1617124031/website/homepage_llicrh.png"
+        alt="Homepage app"
+      />
+
+      <div className="single-work__content">
+        <SubTitle>HOMEPAGE</SubTitle>
+        <Text>
+          Homepage is a web app that I made for personal use. I use it as the
+          start page of the browser so I can have quick access to: Gmail, Github
+          notifications, my todo list, the weather, Google search and my most
+          visited websites. It also has other pages for stuff like: Dribbble
+          feed, movies/TV shows recommendations, news, and stock market updates.
+        </Text>
+        <div className="buttons">
+          <a
+            href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="bg-hover">Preview App</Button>
+          </a>
+          <a
+            href="https://github.com/nixton9/homepage"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -140,42 +200,6 @@ const WorkSection = () => (
         src="https://res.cloudinary.com/duejrcpct/image/upload/v1620409218/website/final_b5qixi.png"
         alt="Traceless app"
       />
-    </div>
-
-    <div className="single-work grid5050">
-      <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/v1617124031/website/homepage_llicrh.png"
-        alt="Homepage app"
-      />
-
-      <div className="single-work__content">
-        <SubTitle>HOMEPAGE</SubTitle>
-        <Text>
-          Homepage is a web app that I made for personal use. I use it as the
-          start page of the browser so I can have quick access to: Gmail, Github
-          notifications, my todo list, the weather, Google search and my most
-          visited websites. It also has other pages for stuff like: Dribbble
-          feed, movies/TV shows recommendations, news, and stock market updates.
-        </Text>
-        <div className="buttons">
-          <a
-            href="https://res.cloudinary.com/duejrcpct/video/upload/v1617125534/website/homepage_preview_gqhalf.mp4"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Button className="bg-hover">Preview App</Button>
-          </a>
-          <a
-            href="https://github.com/nixton9/homepage"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Button className="color-hover" inversed big>
-              Check code
-            </Button>
-          </a>
-        </div>
-      </div>
     </div>
   </section>
 )
