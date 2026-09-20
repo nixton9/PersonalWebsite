@@ -71,12 +71,44 @@ const WorkSection = () => (
 
     <div className="single-work grid5050">
       <img
-        src="https://res.cloudinary.com/duejrcpct/image/upload/v1655388898/website/homeapp_mu15kn.png"
-        alt="HomeApp"
+        src="https://res.cloudinary.com/duejrcpct/image/upload/q_auto/f_auto/v1789898246/website/mock_laptop_audio_player_HQ_fjj1eg.png"
+        alt="Liquid Player"
       />
 
       <div className="single-work__content">
-        <SubTitle>HOMEAPP</SubTitle>
+        <SubTitle>Liquid Player</SubTitle>
+        <Text>
+          A simple audio player with two layouts, inspired by Apple’s Liquid
+          Glass aesthetic. This was a small experiment to see how far I could
+          push the effect using real web technologies. It also supports casting
+          to nearby devices. Far from perfect — the results can vary between
+          browsers — but it was a fun challenge to bring the concept to life in
+          code.
+        </Text>
+        <div className="buttons">
+          <a
+            href="https://liquid-audio-player.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="bg-hover">Visit App</Button>
+          </a>
+          <a
+            href="https://github.com/nixton9/LiquidAudioPlayer"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button className="color-hover" inversed big>
+              Check code
+            </Button>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div className="single-work grid5050">
+      <div className="single-work__content">
+        <SubTitle>HomeApp</SubTitle>
         <Text>
           HomeApp is an app made with SvelteKit that allows me to control some
           different types of smart lights that I have around my house. With it I
@@ -104,6 +136,11 @@ const WorkSection = () => (
           </a>
         </div>
       </div>
+
+      <img
+        src="https://res.cloudinary.com/duejrcpct/image/upload/v1655388898/website/homeapp_mu15kn.png"
+        alt="HomeApp"
+      />
     </div>
 
     <div className="single-work grid5050">
@@ -137,7 +174,7 @@ const WorkSection = () => (
       />
 
       <div className="single-work__content">
-        <SubTitle>HOMEPAGE</SubTitle>
+        <SubTitle>HomePage</SubTitle>
         <Text>
           Homepage is a web app that I made for personal use. I use it as the
           start page of the browser so I can have quick access to: Gmail, Github
@@ -168,7 +205,7 @@ const WorkSection = () => (
 
     <div className="single-work grid5050">
       <div className="single-work__content">
-        <SubTitle>TRACELESS</SubTitle>
+        <SubTitle>Traceless</SubTitle>
         <Text>
           Traceless is a simple Chat App experiment that I did with Web Sockets.
           Users can join a room and chat with all the users in that room.
